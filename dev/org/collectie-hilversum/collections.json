@@ -1,0 +1,9 @@
+{
+  "title": "Collectie Hilversum",
+  "collections": [
+    {
+      "id": "Prenten",
+      "manifest": "prenten/collection.json"
+    }
+  ]
+}
