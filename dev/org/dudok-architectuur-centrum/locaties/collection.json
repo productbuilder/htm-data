@@ -1,0 +1,1508 @@
+{
+  "id": "dudok-architectuur-centrum-locaties",
+  "type": "collection",
+  "title": "HTM Dudok Architectuur Centrum - Locaties",
+  "items": [
+    {
+      "id": "1a4cc00a-c9b6-4539-b4b3-b412ea6f0d35",
+      "type": "item",
+      "title": "Wandelmeent",
+      "slug": "wandelmeent",
+      "description": "De Wandelmeent is een plan voor Centraal Wonen uit 1976. Het groen speelt een belangrijke rol in de wijk.",
+      "summary": "De Wandelmeent is een plan voor Centraal Wonen uit 1976. Het groen speelt een belangrijke rol in de wijk.",
+      "creator": "architectenbureau Leo de Jonge, Dorst, Lubeek de Bruijn, De Groot en partners.",
+      "date": {
+        "end": "1976",
+        "label": "1976"
+      },
+      "location": {
+        "street": "Wandelmeent",
+        "label": "Wandelmeent"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/hilversumse-meent/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/meent-1.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/meent-1.jpg",
+        "alt": "Wandelmeent"
+      }
+    },
+    {
+      "id": "673961ee-b737-4be3-8931-cdff8aefbcce",
+      "type": "item",
+      "title": "Van Reesbank",
+      "slug": "van-reesbank",
+      "description": "Deze bank werd in 1932 ontworpen door H.A. van Anrooij. Opdrachtgever was de International of Good Templars, een organisatie tegen drankmisbruik, ter nagedachtenis van prof. dr. J. van Rees (1854-1928).",
+      "summary": "Deze bank werd in 1932 ontworpen door H.A. van Anrooij. Opdrachtgever was de International of Good Templars, een organisatie tegen drankmisbruik, ter nagedachtenis van prof. dr. J. van Rees (1854-1928).",
+      "creator": "H.A. van Anrooij",
+      "date": {
+        "end": "1932",
+        "label": "1932"
+      },
+      "location": {
+        "street": "Godelindeweg / Insulindelaan",
+        "label": "Godelindeweg / Insulindelaan"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/van-reesbank/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_9926-1400x500.jpeg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_9926-1400x500.jpeg",
+        "alt": "Van Reesbank"
+      }
+    },
+    {
+      "id": "e5f40d54-ce6b-4df4-bd42-95763b86163b",
+      "type": "item",
+      "title": "Winkelwoonhuis",
+      "slug": "winkelwoonhuis",
+      "description": "Dit dubbele winkelwoonhuis is in opdracht van F. Renou gebouwd in 1908. De ontwerper is de architect A.J.W. Denekamp. In de beginjaren werden de panden gebruikt door een boekhandel en kruidenierszaak.",
+      "summary": "Dit dubbele winkelwoonhuis is in opdracht van F. Renou gebouwd in 1908. De ontwerper is de architect A.J.W. Denekamp. In de beginjaren werden de panden gebruikt door een boekhandel en kruidenierszaak.",
+      "creator": "A.J.W. Denekamp",
+      "date": {
+        "end": "1908",
+        "label": "1908"
+      },
+      "location": {
+        "street": "Kerkstraat",
+        "houseNumber": "90-92",
+        "label": "Kerkstraat, 90-92"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/winkelwoonhuizen-kerkstraat-90-92/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_9457-1400x500.jpeg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_9457-1400x500.jpeg",
+        "alt": "Winkelwoonhuis"
+      }
+    },
+    {
+      "id": "90a3712a-1971-4c56-a15a-7e48ca50da90",
+      "type": "item",
+      "title": "Villa Pampahoeve",
+      "slug": "villa-pampahoeve",
+      "description": "De houten villa Pampahoeve werd in 1911 als bouwpakket gekocht bij de fa. Boulton & Paul Ltd. in Norwich, Engeland. De bouwheer Frederik Smidt liet de villa bouwen door de plaatselijke aannemer G. Seppen.",
+      "summary": "De houten villa Pampahoeve werd in 1911 als bouwpakket gekocht bij de fa. Boulton & Paul Ltd. in Norwich, Engeland. De bouwheer Frederik Smidt liet de villa bouwen door de plaatselijke aannemer G. Seppen.",
+      "creator": "fa. Boulton & Paul Ltd. in Norwich",
+      "date": {
+        "end": "1911",
+        "label": "1911"
+      },
+      "location": {
+        "street": "Loosdrechtse Bos",
+        "houseNumber": "7",
+        "label": "Loosdrechtse Bos, 7"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/villa-pampahoeve-1911/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4507-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4507-1400x500.jpg",
+        "alt": "Villa Pampahoeve"
+      }
+    },
+    {
+      "id": "c454b033-87c2-4452-85ed-9e56990e0ca8",
+      "type": "item",
+      "title": "Dubbelvilla",
+      "slug": "dubbelvilla",
+      "description": "Twee onder een kap uit 1958 die eruitziet als een riante villa",
+      "summary": "Twee onder een kap uit 1958 die eruitziet als een riante villa",
+      "creator": "M. Breebaart",
+      "date": {
+        "end": "1958",
+        "label": "1958"
+      },
+      "location": {
+        "street": "s-Gravelandseweg",
+        "houseNumber": "125-127",
+        "label": "s-Gravelandseweg, 125-127"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/dubbelvilla-s-gravelandseweg-125-127/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_9957-1400x500.jpeg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_9957-1400x500.jpeg",
+        "alt": "Dubbelvilla"
+      }
+    },
+    {
+      "id": "eaef0d50-8cde-45e0-8d1b-32f76980a424",
+      "type": "item",
+      "title": "Winkelpand",
+      "slug": "winkelpand",
+      "description": "Dit vrijstaande winkelpand met bovenwoning is in 1924 gebouwd als meubelzaak. In de jaren twintig ontwikkelde de Noorderweg zich in hoog tempo tot een bedrijvig stukje Hilversum met diverse winkels en bedrijfspanden.",
+      "summary": "Dit vrijstaande winkelpand met bovenwoning is in 1924 gebouwd als meubelzaak. In de jaren twintig ontwikkelde de Noorderweg zich in hoog tempo tot een bedrijvig stukje Hilversum met diverse winkels en bedrijfspanden.",
+      "creator": "D.A. van Zanten",
+      "date": {
+        "end": "1924",
+        "label": "1924"
+      },
+      "location": {
+        "street": "Noorderweg",
+        "houseNumber": "42-42A",
+        "label": "Noorderweg, 42-42A"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/winkelpand/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_8660-1400x500.jpeg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_8660-1400x500.jpeg",
+        "alt": "Winkelpand"
+      }
+    },
+    {
+      "id": "8caac737-c448-4c54-b04e-0f7f607f3ca1",
+      "type": "item",
+      "title": "School de Dubbeldekker",
+      "slug": "school-de-dubbeldekker",
+      "description": "in 1966 kwam een ‘dubbelschool’ tot stand, naar een ontwerp van gemeentearchitect ir. S. Joustra. Sjoerd Joustra was in 1954 de opvolger van Dudok als gemeentearchitect van Hilversum.",
+      "summary": "in 1966 kwam een ‘dubbelschool’ tot stand, naar een ontwerp van gemeentearchitect ir. S. Joustra. Sjoerd Joustra was in 1954 de opvolger van Dudok als gemeentearchitect van Hilversum.",
+      "creator": "ir.S. Joustra",
+      "date": {
+        "end": "1966",
+        "label": "1966"
+      },
+      "location": {
+        "street": "Oude Amersfoortseweg",
+        "houseNumber": "196",
+        "label": "Oude Amersfoortseweg, 196"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/de-dubbeldekker/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/de-dubbeldekker-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/de-dubbeldekker-1400x500.jpg",
+        "alt": "School de Dubbeldekker"
+      }
+    },
+    {
+      "id": "item-008",
+      "type": "item",
+      "title": "Woonhuis",
+      "slug": "woonhuis",
+      "description": "Achter het eenvoudige ijzeren spijlenhek met gietijzeren kolommetjes staat terug gerooid, de kleurrijke villa in chaletstijl.",
+      "summary": "Achter het eenvoudige ijzeren spijlenhek met gietijzeren kolommetjes staat terug gerooid, de kleurrijke villa in chaletstijl.",
+      "date": {
+        "end": "omstreeks 1890",
+        "label": "omstreeks 1890"
+      },
+      "location": {
+        "street": "Peerkamplaan",
+        "houseNumber": "12",
+        "label": "Peerkamplaan, 12"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/peerlkamplaan-12-1890/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/peerlkamplaan12-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/peerlkamplaan12-1400x500.jpg",
+        "alt": "Woonhuis"
+      }
+    },
+    {
+      "id": "item-009",
+      "type": "item",
+      "title": "Appartementengebouw",
+      "slug": "appartementengebouw",
+      "description": "Een appartementengebouw aan het Rosarium in de villawijk Boomberg op de plaats van een grote gepleisterde villa in de classicistische stijl, lijkt niet voor de hand liggend.",
+      "summary": "Een appartementengebouw aan het Rosarium in de villawijk Boomberg op de plaats van een grote gepleisterde villa in de classicistische stijl, lijkt niet voor de hand liggend.",
+      "creator": "Architectenbureau D.C. Bonnet",
+      "date": {
+        "end": "1955",
+        "label": "1955"
+      },
+      "location": {
+        "street": "Boomberglaan / bergweg",
+        "label": "Boomberglaan / bergweg"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/boomberglaan-bergweg/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4604-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4604-1400x500.jpg",
+        "alt": "Appartementengebouw"
+      }
+    },
+    {
+      "id": "item-010",
+      "type": "item",
+      "title": "Vier wooningen",
+      "slug": "vier-wooningen",
+      "description": "In 1855 liet jonkheer Six van Jaglust dit pand met vier woningen bouwen, vermoedelijk naar eigen ontwerp.",
+      "summary": "In 1855 liet jonkheer Six van Jaglust dit pand met vier woningen bouwen, vermoedelijk naar eigen ontwerp.",
+      "creator": "Jan Six",
+      "date": {
+        "end": "1855",
+        "label": "1855"
+      },
+      "location": {
+        "street": "s-Gravelandseweg",
+        "houseNumber": "184-190",
+        "label": "s-Gravelandseweg, 184-190"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/de-vier-wooningen-de-heihuisjes/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/image00016-1400x500.jpeg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/image00016-1400x500.jpeg",
+        "alt": "Vier wooningen"
+      }
+    },
+    {
+      "id": "item-011",
+      "type": "item",
+      "title": "STER gebouw",
+      "slug": "ster-gebouw",
+      "description": "Als een van de eerste kantoren in het Laapersveldgebied werd in 1978 de nieuwbouw van de Stichting Ether Reclame (STER) in gebruik genomen.",
+      "summary": "Als een van de eerste kantoren in het Laapersveldgebied werd in 1978 de nieuwbouw van de Stichting Ether Reclame (STER) in gebruik genomen.",
+      "creator": "Architektenburo Falkenburg en Mulders",
+      "date": {
+        "end": "1978",
+        "label": "1978"
+      },
+      "location": {
+        "street": "Laapersveld",
+        "houseNumber": "70",
+        "label": "Laapersveld, 70"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/ster-gebouw/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Ster-gebouw-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Ster-gebouw-1400x500.jpg",
+        "alt": "STER gebouw"
+      }
+    },
+    {
+      "id": "item-012",
+      "type": "item",
+      "title": "Begraafplaats Bosdrift",
+      "slug": "begraafplaats-bosdrift",
+      "description": "Op 15 oktober 1890 werd de ‘Nieuwe Algemeene Begraafplaats’, gelegen aan de Bosdrift 12 geopend. De begraafplaats werd in landschapsstijl aangelegd naar een ontwerp van de befaamde tuinarchitect Leonard Antonij Springer",
+      "summary": "Op 15 oktober 1890 werd de ‘Nieuwe Algemeene Begraafplaats’, gelegen aan de Bosdrift 12 geopend. De begraafplaats werd in landschapsstijl aangelegd naar een ontwerp van de befaamde tuinarchitect Leonard Antonij Springer",
+      "creator": "Piet Andriessen (gebouw)",
+      "date": {
+        "end": "1890",
+        "label": "1890"
+      },
+      "location": {
+        "street": "Bosdrift",
+        "houseNumber": "12",
+        "label": "Bosdrift, 12"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/begraafplaats-bosdrift/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/omd-22-8-4721-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/omd-22-8-4721-1400x500.jpg",
+        "alt": "Begraafplaats Bosdrift"
+      }
+    },
+    {
+      "id": "item-013",
+      "type": "item",
+      "title": "Watertoren",
+      "slug": "watertoren",
+      "description": "De watertoren werd in 1893 op het hoogste punt van de Trompenberg gebouwd.",
+      "summary": "De watertoren werd in 1893 op het hoogste punt van de Trompenberg gebouwd.",
+      "creator": "Compagnie Générale des Conduites d’Eau",
+      "date": {
+        "end": "1893",
+        "label": "1893"
+      },
+      "location": {
+        "street": "Jacobus Pennweg",
+        "houseNumber": "16",
+        "label": "Jacobus Pennweg, 16"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/watertoren-1893-compagnie-generale-des-conduites-deau/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/watertoren-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/watertoren-1400x500.jpg",
+        "alt": "Watertoren"
+      }
+    },
+    {
+      "id": "item-014",
+      "type": "item",
+      "title": "Muziekpaviljoen",
+      "slug": "muziekpaviljoen",
+      "description": "In opdracht van de na de Tweede Wereldoorlog opgerichte Nederlandse Radio Unie ontwierp architect Piet Elling een muziekbibliotheek en fonotheek in de stijl van Het Nieuwe Bouwen",
+      "summary": "In opdracht van de na de Tweede Wereldoorlog opgerichte Nederlandse Radio Unie ontwierp architect Piet Elling een muziekbibliotheek en fonotheek in de stijl van Het Nieuwe Bouwen",
+      "creator": "Piet Elling",
+      "date": {
+        "end": "1965",
+        "label": "1965"
+      },
+      "location": {
+        "street": "Sumatralaan",
+        "houseNumber": "45",
+        "label": "Sumatralaan, 45"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/muziekpaviljoen/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/muziekpaviljoen-1-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/muziekpaviljoen-1-1400x500.jpg",
+        "alt": "Muziekpaviljoen"
+      }
+    },
+    {
+      "id": "item-015",
+      "type": "item",
+      "title": "Tolhuis",
+      "slug": "tolhuis",
+      "description": "Het tolhuis is van eenvoudige, neoclassicistische architectuur.",
+      "summary": "Het tolhuis is van eenvoudige, neoclassicistische architectuur.",
+      "date": {
+        "end": "19e eeuw",
+        "label": "19e eeuw"
+      },
+      "location": {
+        "street": "Soestdijkerstraatweg",
+        "houseNumber": "2",
+        "label": "Soestdijkerstraatweg, 2"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/tolhuis/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4413-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4413-1400x500.jpg",
+        "alt": "Tolhuis"
+      }
+    },
+    {
+      "id": "item-016",
+      "type": "item",
+      "title": "Tesselschadekerk",
+      "slug": "tesselschadekerk",
+      "description": "De protestantse kerk met markante toren aan de Tesselschadelaan is in 1927 gebouwd in opdracht van de Nederlandse Protestantenbond",
+      "summary": "De protestantse kerk met markante toren aan de Tesselschadelaan is in 1927 gebouwd in opdracht van de Nederlandse Protestantenbond",
+      "creator": "B.H. Bakker en H. Bunders",
+      "date": {
+        "end": "1927",
+        "label": "1927"
+      },
+      "location": {
+        "street": "Tesselschadelaan",
+        "houseNumber": "17",
+        "label": "Tesselschadelaan, 17"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/tesselschadekerk/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4518-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4518-1400x500.jpg",
+        "alt": "Tesselschadekerk"
+      }
+    },
+    {
+      "id": "item-017",
+      "type": "item",
+      "title": "Spoorerfgoed",
+      "slug": "spoorerfgoed",
+      "description": "Toen het oude stationsgebouw in 1990 werd afgebroken bleef de overkapping van het tweede perron uit 1892 in tact.",
+      "summary": "Toen het oude stationsgebouw in 1990 werd afgebroken bleef de overkapping van het tweede perron uit 1892 in tact.",
+      "creator": "firma D.A. Schretlen en Co.",
+      "date": {
+        "end": "1892",
+        "label": "1892"
+      },
+      "location": {
+        "street": "Stationsplein",
+        "houseNumber": "7",
+        "label": "Stationsplein, 7"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/overkapping-perron-stationsgebouw/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4586-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4586-1400x500.jpg",
+        "alt": "Spoorerfgoed"
+      }
+    },
+    {
+      "id": "item-018",
+      "type": "item",
+      "title": "Villa Henriette",
+      "slug": "villa-henriette",
+      "description": "Jan ter Meulen bewoonde tot 1914 gedurende de zomermaanden de villa, genoemd naar zijn vrouw Henriëtte",
+      "summary": "Jan ter Meulen bewoonde tot 1914 gedurende de zomermaanden de villa, genoemd naar zijn vrouw Henriëtte",
+      "creator": "A.K. en J.G. van Gendt",
+      "date": {
+        "end": "1896",
+        "label": "1896"
+      },
+      "location": {
+        "street": "Schuttersweg",
+        "houseNumber": "8",
+        "label": "Schuttersweg, 8"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/henriette-1896-1906-a-l-en-j-g-van-gendt-e-verschuyl/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/henriette-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/henriette-1400x500.jpg",
+        "alt": "Villa Henriette"
+      }
+    },
+    {
+      "id": "item-019",
+      "type": "item",
+      "title": "Winkelpand Oldenhof",
+      "slug": "winkelpand-oldenhof",
+      "description": "Gesitueerd op een prominente plek aan de rand van de binnenstad, is het in 1950 gebouwd naar ontwerp van S.G. Barenbrug (1892-1987).",
+      "summary": "Gesitueerd op een prominente plek aan de rand van de binnenstad, is het in 1950 gebouwd naar ontwerp van S.G. Barenbrug (1892-1987).",
+      "creator": "S.G. Barenbrug",
+      "date": {
+        "end": "1950",
+        "label": "1950"
+      },
+      "location": {
+        "street": "s-Gravelandseweg",
+        "houseNumber": "8",
+        "label": "s-Gravelandseweg, 8"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/winkelpand-oldenhof-warenhuis-wortelboer/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_5124-1400x500.jpeg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_5124-1400x500.jpeg",
+        "alt": "Winkelpand Oldenhof"
+      }
+    },
+    {
+      "id": "item-020",
+      "type": "item",
+      "title": "Padvindershuisje",
+      "slug": "padvindershuisje",
+      "description": "Het verenigingsgebouw van de padvinders is gebouwd in de stijl van de Amsterdamse School.",
+      "summary": "Het verenigingsgebouw van de padvinders is gebouwd in de stijl van de Amsterdamse School.",
+      "creator": "Co van Laren",
+      "date": {
+        "end": "1921",
+        "label": "1921"
+      },
+      "location": {
+        "street": "Schuttersweg",
+        "houseNumber": "31",
+        "label": "Schuttersweg, 31"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/padvindershuisje/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4252-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4252-1400x500.jpg",
+        "alt": "Padvindershuisje"
+      }
+    },
+    {
+      "id": "item-021",
+      "type": "item",
+      "title": "Kiosk bij de Kei",
+      "slug": "kiosk-bij-de-kei",
+      "description": "De kiosk werd voor koopman Gaasbeek ontworpen door de architecten B.H. en C.M. Bakker",
+      "summary": "De kiosk werd voor koopman Gaasbeek ontworpen door de architecten B.H. en C.M. Bakker",
+      "creator": "B.H. en C.M. Bakker",
+      "date": {
+        "end": "1931",
+        "label": "1931"
+      },
+      "location": {
+        "street": "s-Gravelandseweg",
+        "houseNumber": "8B",
+        "label": "s-Gravelandseweg, 8B"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/kiosk-bij-de-kei/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4601-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4601-1400x500.jpg",
+        "alt": "Kiosk bij de Kei"
+      }
+    },
+    {
+      "id": "item-022",
+      "type": "item",
+      "title": "Winkelcomplex",
+      "slug": "winkelcomplex",
+      "description": "Op de hoek met de Minister Hartsenlaan is in de periode 1912-1914 een zeldzaam neobarok complex van vijf winkelwoonhuizen gebouwd.",
+      "summary": "Op de hoek met de Minister Hartsenlaan is in de periode 1912-1914 een zeldzaam neobarok complex van vijf winkelwoonhuizen gebouwd.",
+      "creator": "C. de Groot JZN",
+      "date": {
+        "end": "1914",
+        "label": "1914"
+      },
+      "location": {
+        "street": "s-Gravelandseweg",
+        "houseNumber": "46-46E",
+        "label": "s-Gravelandseweg, 46-46E"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/s-gravelandseweg-46-46e-minister-hartsenlaan-2-1912-1914-c-de-groot-jzn/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4240-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4240-1400x500.jpg",
+        "alt": "Winkelcomplex"
+      }
+    },
+    {
+      "id": "item-023",
+      "type": "item",
+      "title": "Werf35",
+      "slug": "werf35",
+      "description": "Aan de Mussenstraat, langs de spoorlijn Amsterdam-Amersfoort, ligt een ruim voormalig fabrieksterrein dat nu Werf35 bevat.",
+      "summary": "Aan de Mussenstraat, langs de spoorlijn Amsterdam-Amersfoort, ligt een ruim voormalig fabrieksterrein dat nu Werf35 bevat.",
+      "date": {
+        "end": "1916/1929/2020",
+        "label": "1916/1929/2020"
+      },
+      "location": {
+        "street": "Mussenstraat",
+        "houseNumber": "9-21",
+        "label": "Mussenstraat, 9-21"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/pleisterfabriek-gemeentewerf-werf35/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/werf35-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/werf35-1400x500.jpg",
+        "alt": "Werf35"
+      }
+    },
+    {
+      "id": "item-024",
+      "type": "item",
+      "title": "Dependance ATC",
+      "slug": "dependance-atc",
+      "description": "Het werd in 1991 gebouwd als kantoorgebouw voor de Woningbouwvereniging van Erfgooiers (tegenwoordig De Alliantie)",
+      "summary": "Het werd in 1991 gebouwd als kantoorgebouw voor de Woningbouwvereniging van Erfgooiers (tegenwoordig De Alliantie)",
+      "creator": "architectenbureau Alberts & Van Huut",
+      "date": {
+        "end": "1991",
+        "label": "1991"
+      },
+      "location": {
+        "street": "Laapersveld",
+        "houseNumber": "13",
+        "label": "Laapersveld, 13"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/vm-kantoorgebouw-laapersveld-13/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Laapersveld-13-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Laapersveld-13-1400x500.jpg",
+        "alt": "Dependance ATC"
+      }
+    },
+    {
+      "id": "item-025",
+      "type": "item",
+      "title": "Villa Elwin",
+      "slug": "villa-elwin",
+      "description": "Villa Elwin is een forse villa gebouwd in een voor de bouwtijd karakteristieke Overgangsstijl.",
+      "summary": "Villa Elwin is een forse villa gebouwd in een voor de bouwtijd karakteristieke Overgangsstijl.",
+      "creator": "Willem Langhout",
+      "date": {
+        "end": "1902",
+        "label": "1902"
+      },
+      "location": {
+        "street": "Bothalaan",
+        "houseNumber": "1",
+        "label": "Bothalaan, 1"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/villa-elwin/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Bothalaan-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Bothalaan-1400x500.jpg",
+        "alt": "Villa Elwin"
+      }
+    },
+    {
+      "id": "item-026",
+      "type": "item",
+      "title": "Rosarium",
+      "slug": "rosarium",
+      "description": "Vanaf 1916 werd het Rosarium gedurende de gehele dag voor het publiek opengesteld",
+      "summary": "Vanaf 1916 werd het Rosarium gedurende de gehele dag voor het publiek opengesteld",
+      "creator": "K. Rysdorp / D.F. Tersteeg",
+      "date": {
+        "end": "1914",
+        "label": "1914"
+      },
+      "location": {
+        "street": "Bergweg",
+        "houseNumber": "11",
+        "label": "Bergweg, 11"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/rosarium-1914-k-rysdorp-d-f-tersteeg/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4227-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4227-1400x500.jpg",
+        "alt": "Rosarium"
+      }
+    },
+    {
+      "id": "item-027",
+      "type": "item",
+      "title": "Woonhuis",
+      "slug": "woonhuis",
+      "description": "Deze panden in de villawijk Boomberg vallen op door hun afwijkende type en bouwstijl.",
+      "summary": "Deze panden in de villawijk Boomberg vallen op door hun afwijkende type en bouwstijl.",
+      "creator": "E.G. Middag",
+      "date": {
+        "end": "1934",
+        "label": "1934"
+      },
+      "location": {
+        "street": "Burgemeester Gulcherlaan",
+        "houseNumber": "34-36",
+        "label": "Burgemeester Gulcherlaan, 34-36"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/burgemeester-gulcherlaan-34-36/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4605-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4605-1400x500.jpg",
+        "alt": "Woonhuis"
+      }
+    },
+    {
+      "id": "item-028",
+      "type": "item",
+      "title": "Buen Retiro",
+      "slug": "buen-retiro",
+      "description": "villa Buen Retiro in neorenaissancestijl, gebouwd in 1875 naar het ontwerp van de Amsterdamse architect I. Gosschalk.",
+      "summary": "villa Buen Retiro in neorenaissancestijl, gebouwd in 1875 naar het ontwerp van de Amsterdamse architect I. Gosschalk.",
+      "creator": "I. Gosschalk",
+      "date": {
+        "end": "1875",
+        "label": "1875"
+      },
+      "location": {
+        "street": "Trompenbergerwerg",
+        "houseNumber": "6",
+        "label": "Trompenbergerwerg, 6"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/buen-retiro-1875-i-gosschalk/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4378-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4378-1400x500.jpg",
+        "alt": "Buen Retiro"
+      }
+    },
+    {
+      "id": "item-029",
+      "type": "item",
+      "title": "Albertus Perkstraat",
+      "slug": "albertus-perkstraat",
+      "description": "De vrijstaande villa in de villawijk Boomberg werd in 1895 gebouwd naar het ontwerp van bouwkundige J. de Groot een eclectische bouwtrant.",
+      "summary": "De vrijstaande villa in de villawijk Boomberg werd in 1895 gebouwd naar het ontwerp van bouwkundige J. de Groot een eclectische bouwtrant.",
+      "creator": "J. de Groot",
+      "date": {
+        "end": "1895",
+        "label": "1895"
+      },
+      "location": {
+        "street": "Albertus Perkstraat",
+        "houseNumber": "59",
+        "label": "Albertus Perkstraat, 59"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/albertus-perkstraat-59-1895-j-de-groot/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/albertus-perkstraat59-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/albertus-perkstraat59-1400x500.jpg",
+        "alt": "Albertus Perkstraat"
+      }
+    },
+    {
+      "id": "item-030",
+      "type": "item",
+      "title": "Regenboogkerk",
+      "slug": "regenboogkerk",
+      "description": "in 2000-2001 werd de protestantse Regenboogkerk gebouwd, naar een ontwerp van het Architectenbureau Van Berkel en Bos (het tegenwoordige UN Studio).",
+      "summary": "in 2000-2001 werd de protestantse Regenboogkerk gebouwd, naar een ontwerp van het Architectenbureau Van Berkel en Bos (het tegenwoordige UN Studio).",
+      "creator": "Architectenbureau UN Studio (Ben van Berkel en Caroline Bos)",
+      "date": {
+        "end": "2001",
+        "label": "2001"
+      },
+      "location": {
+        "street": "Nassaulaan",
+        "houseNumber": "22",
+        "label": "Nassaulaan, 22"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/regenboogkerk/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/regenboogkerk-1-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/regenboogkerk-1-1400x500.jpg",
+        "alt": "Regenboogkerk"
+      }
+    },
+    {
+      "id": "item-031",
+      "type": "item",
+      "title": "Woningen Geert Grootelaan",
+      "slug": "woningen-geert-grootelaan",
+      "description": "In 1968 kreeg het architectenbureau Hartman & Eylers opdracht tot het bouwen van 228 woningen en 101 autoboxen aan de Erasmuslaan en de Geert Grootelaan in de nieuwe wijk Kerkelanden.",
+      "summary": "In 1968 kreeg het architectenbureau Hartman & Eylers opdracht tot het bouwen van 228 woningen en 101 autoboxen aan de Erasmuslaan en de Geert Grootelaan in de nieuwe wijk Kerkelanden.",
+      "creator": "Architectenbureau Hartman & Eylers",
+      "date": {
+        "end": "1968",
+        "label": "1968"
+      },
+      "location": {
+        "street": "Geert Grootelaan",
+        "label": "Geert Grootelaan"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/woningen-aan-de-geert-grootelaan/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Geert-Grootelaan-woningen-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Geert-Grootelaan-woningen-1400x500.jpg",
+        "alt": "Woningen Geert Grootelaan"
+      }
+    },
+    {
+      "id": "item-032",
+      "type": "item",
+      "title": "Emma apotheek",
+      "slug": "emma-apotheek",
+      "description": "De Emma-apotheek, gebouwd voor dr. R. Feenstra, is een zeldzaam voorbeeld van de Haagse School.",
+      "summary": "De Emma-apotheek, gebouwd voor dr. R. Feenstra, is een zeldzaam voorbeeld van de Haagse School.",
+      "creator": "Th. Rueter en H.F. Symons",
+      "date": {
+        "end": "1921",
+        "label": "1921"
+      },
+      "location": {
+        "street": "Emmastraat",
+        "houseNumber": "26",
+        "label": "Emmastraat, 26"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/emma-apotheek/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4533-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4533-1400x500.jpg",
+        "alt": "Emma apotheek"
+      }
+    },
+    {
+      "id": "item-033",
+      "type": "item",
+      "title": "Villa Industria",
+      "slug": "villa-industria",
+      "description": "in de jaren 2004-2016 verscheen een geheel nieuwe woonwijk met de naam Villa Industria.",
+      "summary": "in de jaren 2004-2016 verscheen een geheel nieuwe woonwijk met de naam Villa Industria.",
+      "creator": "Mecanoo Architecten",
+      "date": {
+        "end": "2016",
+        "label": "2016"
+      },
+      "location": {
+        "street": "Gashouder",
+        "label": "Gashouder"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/villa-industria/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/villa-industria-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/villa-industria-1400x500.jpg",
+        "alt": "Villa Industria"
+      }
+    },
+    {
+      "id": "item-034",
+      "type": "item",
+      "title": "KNP gebouw",
+      "slug": "knp-gebouw",
+      "description": "Het kantoorgebouw aan de Bonairelaan 4-6 is in 1990 ontworpen door de wereldberoemde Amerikaanse architect Richard Meier (1934) in opdracht van de Koninklijke Nederlandse Papierfabriek (KNP), die er in 1992 zijn hoofdkantoor in vestigde.",
+      "summary": "Het kantoorgebouw aan de Bonairelaan 4-6 is in 1990 ontworpen door de wereldberoemde Amerikaanse architect Richard Meier (1934) in opdracht van de Koninklijke Nederlandse Papierfabriek (KNP), die er in 1992 zijn hoofdkan",
+      "creator": "Richard Meier",
+      "date": {
+        "end": "1992",
+        "label": "1992"
+      },
+      "location": {
+        "street": "Bonairelaan",
+        "houseNumber": "4-6",
+        "label": "Bonairelaan, 4-6"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/kantoorgebouw-bonairelaan-4-6/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/2019-08-26-15.48.11-1-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/2019-08-26-15.48.11-1-1400x500.jpg",
+        "alt": "KNP gebouw"
+      }
+    },
+    {
+      "id": "item-035",
+      "type": "item",
+      "title": "Palace residence",
+      "slug": "palace-residence",
+      "description": "In 1974 verrees een modern appartementengebouw met 73 luxe woningen aan een belangrijke kruising van de ringweg voor doorgaand verkeer.",
+      "summary": "In 1974 verrees een modern appartementengebouw met 73 luxe woningen aan een belangrijke kruising van de ringweg voor doorgaand verkeer.",
+      "creator": "Robert Magnee",
+      "date": {
+        "end": "1974",
+        "label": "1974"
+      },
+      "location": {
+        "street": "s-Gravelandseweg",
+        "houseNumber": "86",
+        "label": "s-Gravelandseweg, 86"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/palace-residence/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Palace-Residence-1-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Palace-Residence-1-1400x500.jpg",
+        "alt": "Palace residence"
+      }
+    },
+    {
+      "id": "item-036",
+      "type": "item",
+      "title": "Melkfabriek",
+      "slug": "melkfabriek",
+      "description": "In 1955 begon in opdracht van de Verenigde Gooise Melkbedrijven (VGM) de bouw van een hypermoderne zuivelfabriek aan de Larenseweg.",
+      "summary": "In 1955 begon in opdracht van de Verenigde Gooise Melkbedrijven (VGM) de bouw van een hypermoderne zuivelfabriek aan de Larenseweg.",
+      "creator": "Marinus Breebaart en technisch bureau Martens en Kramer",
+      "date": {
+        "end": "1957",
+        "label": "1957"
+      },
+      "location": {
+        "street": "Larenseweg",
+        "houseNumber": "32",
+        "label": "Larenseweg, 32"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/de-melkfabriek/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/melkfabriek-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/melkfabriek-1400x500.jpg",
+        "alt": "Melkfabriek"
+      }
+    },
+    {
+      "id": "item-037",
+      "type": "item",
+      "title": "Emmauskerk",
+      "slug": "emmauskerk",
+      "description": "In 1969 werd de rooms-katholieke kerk van de nieuw opgerichte parochie St. Jan Evangelist in de westelijke uitbreidingswijk Kerkelanden gewijd.",
+      "summary": "In 1969 werd de rooms-katholieke kerk van de nieuw opgerichte parochie St. Jan Evangelist in de westelijke uitbreidingswijk Kerkelanden gewijd.",
+      "creator": "Antoon van Kranendonk",
+      "date": {
+        "end": "1969",
+        "label": "1969"
+      },
+      "location": {
+        "street": "Kerkelandenlaan",
+        "houseNumber": "5",
+        "label": "Kerkelandenlaan, 5"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/emmauskerk/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/emmauskerk-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/emmauskerk-1400x500.jpg",
+        "alt": "Emmauskerk"
+      }
+    },
+    {
+      "id": "item-038",
+      "type": "item",
+      "title": "H Park",
+      "slug": "h-park",
+      "description": "Een aansprekende verwijzing naar de bloeiende industriële periode van Hilversum staat aan de Oude Amersfoortseweg 121-123.",
+      "summary": "Een aansprekende verwijzing naar de bloeiende industriële periode van Hilversum staat aan de Oude Amersfoortseweg 121-123.",
+      "creator": "E.G. Middag / J. van Wilsum / ZZDP Architect",
+      "date": {
+        "end": "1951/1981/2020",
+        "label": "1951/1981/2020"
+      },
+      "location": {
+        "street": "Oude Amersfoortseweg",
+        "houseNumber": "121-123",
+        "label": "Oude Amersfoortseweg, 121-123"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/nivea-fabrieken-h-park/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/H-park-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/H-park-1400x500.jpg",
+        "alt": "H Park"
+      }
+    },
+    {
+      "id": "item-039",
+      "type": "item",
+      "title": "Costerustuin",
+      "slug": "costerustuin",
+      "description": "Als enige tuin in Nederland hanteert de Costerustuin het zogenaamde Eichlersysteem, waarbij verwante plantenfamilies worden gerangschikt in veertig orden.",
+      "summary": "Als enige tuin in Nederland hanteert de Costerustuin het zogenaamde Eichlersysteem, waarbij verwante plantenfamilies worden gerangschikt in veertig orden.",
+      "date": {
+        "end": "1930",
+        "label": "1930"
+      },
+      "location": {
+        "street": "Zonnelaan",
+        "houseNumber": "4-Z",
+        "label": "Zonnelaan, 4-Z"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/de-costerustuin/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Costerustuin-3-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Costerustuin-3-1400x500.jpg",
+        "alt": "Costerustuin"
+      }
+    },
+    {
+      "id": "item-040",
+      "type": "item",
+      "title": "Vm magazijn Wybertjesfabriek",
+      "slug": "vm-magazijn-wybertjesfabriek",
+      "description": "magazijn annex expeditiegebouw van wat bekend stond als de Wybertjesfabriek",
+      "summary": "magazijn annex expeditiegebouw van wat bekend stond als de Wybertjesfabriek",
+      "creator": "S.G. Barenbrug",
+      "location": {
+        "street": "Larenseweg",
+        "houseNumber": "132",
+        "label": "Larenseweg, 132"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/magazijn-expeditiegebouw-wybertjesfabriek/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/wybertjesfabriek-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/wybertjesfabriek-1400x500.jpg",
+        "alt": "Vm magazijn Wybertjesfabriek"
+      }
+    },
+    {
+      "id": "item-041",
+      "type": "item",
+      "title": "Villa Pampedia",
+      "slug": "villa-pampedia",
+      "description": "Het bestuur van de Stichting R.K. Vak- en Huishoudschool voor Meisjes gaf in 1921 opdracht tot het oprichten van een schoolgebouw met conciërgewoning aan de Larenseweg 28a.",
+      "summary": "Het bestuur van de Stichting R.K. Vak- en Huishoudschool voor Meisjes gaf in 1921 opdracht tot het oprichten van een schoolgebouw met conciërgewoning aan de Larenseweg 28a.",
+      "creator": "H.J. van der Heijden",
+      "date": {
+        "end": "1921",
+        "label": "1921"
+      },
+      "location": {
+        "street": "Larenseweg",
+        "houseNumber": "28A",
+        "label": "Larenseweg, 28A"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/villa-pampedia/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/villa-pampedia-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/villa-pampedia-1400x500.jpg",
+        "alt": "Villa Pampedia"
+      }
+    },
+    {
+      "id": "item-042",
+      "type": "item",
+      "title": "Flatgebouw Larenseweg",
+      "slug": "flatgebouw-larenseweg",
+      "description": "Een typisch voorbeeld van de bouwstijl uit de jaren zeventig. De flat bestaat uit twee haaks op elkaar staande vleugels die verbonden zijn door een trappenhuis met liftschacht. Op de begane grond bevindt zich een op de rotonde gerichte ruime lage uitbouw.",
+      "summary": "Een typisch voorbeeld van de bouwstijl uit de jaren zeventig. De flat bestaat uit twee haaks op elkaar staande vleugels die verbonden zijn door een trappenhuis met liftschacht. Op de begane grond bevindt zich een op de r",
+      "creator": "Architectenbureau Zanstra, De Clerq Zubli, Lammertsma & Partner.",
+      "date": {
+        "end": "1977",
+        "label": "1977"
+      },
+      "location": {
+        "street": "Larenseweg",
+        "houseNumber": "157",
+        "label": "Larenseweg, 157"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/flatgebouw-larenseweg-157/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Larenseweg-157-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Larenseweg-157-1400x500.jpg",
+        "alt": "Flatgebouw Larenseweg"
+      }
+    },
+    {
+      "id": "item-043",
+      "type": "item",
+      "title": "Villa Hoogerheide",
+      "slug": "villa-hoogerheide",
+      "description": "Deze voorname villa is gebouwd in een periode dat Berlage een groot aantal villa’s bouwde. Naar Engels voorbeeld fungeert het trappenhuis als de spil van de opbouw van de villa. De keuze om gevels te pleisteren zou ingegeven kunnen zijn door de kwaliteit van de bakstenen. Vanuit de Jugendstil-villa van Berlage aan de rand van de Trompenberg had men vroeger uitzicht over bouwland.",
+      "summary": "Deze voorname villa is gebouwd in een periode dat Berlage een groot aantal villa’s bouwde. Naar Engels voorbeeld fungeert het trappenhuis als de spil van de opbouw van de villa. De keuze om gevels te pleisteren zou ingeg",
+      "creator": "H.P. Berlage",
+      "date": {
+        "end": "1896",
+        "label": "1896"
+      },
+      "location": {
+        "street": "Ceintuurbaan",
+        "houseNumber": "2",
+        "label": "Ceintuurbaan, 2"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/zonneheuvel-villa-hubrecht-ceintuurbaan-2-1896-h-p-berlage/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Zonneheuvel-Ceintuurbaan2-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Zonneheuvel-Ceintuurbaan2-1400x500.jpg",
+        "alt": "Villa Hoogerheide"
+      }
+    },
+    {
+      "id": "item-044",
+      "type": "item",
+      "title": "VM Lutherse Kerk",
+      "slug": "vm-lutherse-kerk",
+      "description": "Om 1922 werd een perceel grond aan de Bergweg gekocht en aan architect Dullaart de opdracht gegeven een kerkgebouw te ontwerpen.",
+      "summary": "Om 1922 werd een perceel grond aan de Bergweg gekocht en aan architect Dullaart de opdracht gegeven een kerkgebouw te ontwerpen.",
+      "creator": "J. Dullaart",
+      "date": {
+        "end": "1923",
+        "label": "1923"
+      },
+      "location": {
+        "street": "Bergweg",
+        "houseNumber": "6",
+        "label": "Bergweg, 6"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/lutherse-kerk/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4614-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4614-1400x500.jpg",
+        "alt": "VM Lutherse Kerk"
+      }
+    },
+    {
+      "id": "item-045",
+      "type": "item",
+      "title": "Huis met de rododendrons",
+      "slug": "huis-met-de-rododendrons",
+      "description": "In november 1854 kocht de Amsterdamse Isabella Christina Charlotta van Otterlo een perceel grond aan de ‘s-Gravelandseweg van Albertus Perk en in mei het jaar daarop nog een stukje gemeentegrond erbij voor de bouw van een woning.",
+      "summary": "In november 1854 kocht de Amsterdamse Isabella Christina Charlotta van Otterlo een perceel grond aan de ‘s-Gravelandseweg van Albertus Perk en in mei het jaar daarop nog een stukje gemeentegrond erbij voor de bouw van ee",
+      "date": {
+        "end": "1855",
+        "label": "1855"
+      },
+      "location": {
+        "street": "s-Gravelandseweg",
+        "houseNumber": "41",
+        "label": "s-Gravelandseweg, 41"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/het-huis-met-de-rododendrons/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/image00003-1-1400x500.jpeg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/image00003-1-1400x500.jpeg",
+        "alt": "Huis met de rododendrons"
+      }
+    },
+    {
+      "id": "item-046",
+      "type": "item",
+      "title": "Fabrikeurswoning aan de Groest",
+      "slug": "fabrikeurswoning-aan-de-groest",
+      "description": "In het centrum van Hilversum, aan de Groest 104-106, staat deze monumentale fabrikeurswoning met neorenaissance kenmerken uit de tweede helft van de negentiende eeuw. De woning was ooit het hoofdgebouw van de tapijtfabriek van de firma Bijlard.",
+      "summary": "In het centrum van Hilversum, aan de Groest 104-106, staat deze monumentale fabrikeurswoning met neorenaissance kenmerken uit de tweede helft van de negentiende eeuw. De woning was ooit het hoofdgebouw van de tapijtfabri",
+      "date": {
+        "end": "19e eeuw",
+        "label": "19e eeuw"
+      },
+      "location": {
+        "street": "Groest",
+        "houseNumber": "104",
+        "label": "Groest, 104"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/groest-104-106-19e-eeuw/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/groest-104-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/groest-104-1400x500.jpg",
+        "alt": "Fabrikeurswoning aan de Groest"
+      }
+    },
+    {
+      "id": "item-047",
+      "type": "item",
+      "title": "Beethovenlaan 29",
+      "slug": "beethovenlaan-29",
+      "description": "Dit buitengewoon gaaf bewaard gebleven buitenwoonhuis in de Engelse landhuisstijl staat aan een karakteristieke laan in het Kannesheuvelpark met monumentale laanbomen en een reeks buitengewone huizen.",
+      "summary": "Dit buitengewoon gaaf bewaard gebleven buitenwoonhuis in de Engelse landhuisstijl staat aan een karakteristieke laan in het Kannesheuvelpark met monumentale laanbomen en een reeks buitengewone huizen.",
+      "creator": "K.P.C. de Bazel",
+      "date": {
+        "end": "1910",
+        "label": "1910"
+      },
+      "location": {
+        "street": "Beethovenlaan",
+        "houseNumber": "29",
+        "label": "Beethovenlaan, 29"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/beethovenlaan-29-1910/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Beethovenlaan29-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Beethovenlaan29-1400x500.jpg",
+        "alt": "Beethovenlaan 29"
+      }
+    },
+    {
+      "id": "item-048",
+      "type": "item",
+      "title": "Kerkgebouw Apostolisch Genootschap",
+      "slug": "kerkgebouw-apostolisch-genootschap",
+      "description": "Het ontwerp van het kerkgebouw (Plaats van Samenkomst) van het Apostolisch Genootschap aan de La Rivièrestraat in Hilversum is een exemplarisch voorbeeld van een kerkontwerp uit het begin van de Post 65-periode.",
+      "summary": "Het ontwerp van het kerkgebouw (Plaats van Samenkomst) van het Apostolisch Genootschap aan de La Rivièrestraat in Hilversum is een exemplarisch voorbeeld van een kerkontwerp uit het begin van de Post 65-periode.",
+      "creator": "M.E. Hartman en N. Eylers",
+      "date": {
+        "end": "1969-1970",
+        "label": "1969-1970"
+      },
+      "location": {
+        "street": "La Rivierestraat",
+        "houseNumber": "9",
+        "label": "La Rivierestraat, 9"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/kerk-van-apostolisch-genootschap/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/kerk-apostolisch-genoorschap-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/kerk-apostolisch-genoorschap-1400x500.jpg",
+        "alt": "Kerkgebouw Apostolisch Genootschap"
+      }
+    },
+    {
+      "id": "item-049",
+      "type": "item",
+      "title": "Woningen Boomberglaan",
+      "slug": "woningen-boomberglaan",
+      "description": "In de zakelijke expressionistische bouwtrant bouwde architect B.H. Bakker een serie van drie woonhuizen op de hoek van de Boomberglaan en de ‘s-Gravelandseweg.",
+      "summary": "In de zakelijke expressionistische bouwtrant bouwde architect B.H. Bakker een serie van drie woonhuizen op de hoek van de Boomberglaan en de ‘s-Gravelandseweg.",
+      "creator": "B.H. en C.M. bakker",
+      "date": {
+        "end": "1935",
+        "label": "1935"
+      },
+      "location": {
+        "street": "Boomberglaan / bergweg",
+        "houseNumber": "77-81",
+        "label": "Boomberglaan / bergweg, 77-81"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/boomberglaan-77-81/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4609-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4609-1400x500.jpg",
+        "alt": "Woningen Boomberglaan"
+      }
+    },
+    {
+      "id": "item-050",
+      "type": "item",
+      "title": "Villa Renata",
+      "slug": "villa-renata",
+      "description": "De villa aan de ‘s-Gravelandseweg 131A, gebouwd in 1934, is een exemplarisch voorbeeld van een groot landhuis gebouwd in de stijl van architect J.W. Hanrath (1867-1932).",
+      "summary": "De villa aan de ‘s-Gravelandseweg 131A, gebouwd in 1934, is een exemplarisch voorbeeld van een groot landhuis gebouwd in de stijl van architect J.W. Hanrath (1867-1932).",
+      "creator": "P.H.M. Briet",
+      "date": {
+        "end": "1934",
+        "label": "1934"
+      },
+      "location": {
+        "street": "s-Gravelandseweg",
+        "houseNumber": "131A",
+        "label": "s-Gravelandseweg, 131A"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/villa-renata/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/image00006-1400x500.jpeg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/image00006-1400x500.jpeg",
+        "alt": "Villa Renata"
+      }
+    },
+    {
+      "id": "item-051",
+      "type": "item",
+      "title": "Tramstation Gooische Stoomtram",
+      "slug": "tramstation-gooische-stoomtram",
+      "description": "Aan de Oostzijde van de grote spoorwegovergang staat het voormalige tramstation, gebouwd voor de Gooische Stoomtram.",
+      "summary": "Aan de Oostzijde van de grote spoorwegovergang staat het voormalige tramstation, gebouwd voor de Gooische Stoomtram.",
+      "creator": "C.J. Kruisweg",
+      "date": {
+        "end": "1901",
+        "label": "1901"
+      },
+      "location": {
+        "street": "Larenseweg",
+        "houseNumber": "1",
+        "label": "Larenseweg, 1"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/tramsation-gooische-stoomtram-1901/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4708-1-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_4708-1-1400x500.jpg",
+        "alt": "Tramstation Gooische Stoomtram"
+      }
+    },
+    {
+      "id": "item-052",
+      "type": "item",
+      "title": "Tribune Gemeentelijk Sportpark",
+      "slug": "tribune-gemeentelijk-sportpark",
+      "description": "De sporttribune van het in 1919 aangelegde Gemeentelijk Sportpark aan de Soestdijkerstraatweg is de oudste houten sporttribune van Nederland.",
+      "summary": "De sporttribune van het in 1919 aangelegde Gemeentelijk Sportpark aan de Soestdijkerstraatweg is de oudste houten sporttribune van Nederland.",
+      "creator": "W.M. Dudok",
+      "date": {
+        "end": "1919",
+        "label": "1919"
+      },
+      "location": {
+        "street": "Arenapark",
+        "houseNumber": "103",
+        "label": "Arenapark, 103"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/werken-dudok/tribune-sportpark/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Tribune_Arena_2408-1536x768.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Tribune_Arena_2408-1536x768.jpg",
+        "alt": "Tribune Gemeentelijk Sportpark"
+      }
+    },
+    {
+      "id": "item-053",
+      "type": "item",
+      "title": "Villa Billeke",
+      "slug": "villa-billeke",
+      "description": "Michiel de Klerk bouwde in de stijl van de Amsterdamse School dit woonhuis met een symmetrische diamantvormige plattegrond",
+      "summary": "Michiel de Klerk bouwde in de stijl van de Amsterdamse School dit woonhuis met een symmetrische diamantvormige plattegrond",
+      "creator": "Michel de Klerk",
+      "date": {
+        "end": "1915",
+        "label": "1915"
+      },
+      "location": {
+        "street": "Van Lenneplaan",
+        "houseNumber": "37",
+        "label": "Van Lenneplaan, 37"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/billike-1915-m-de-klerk/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Billeke-Van-Lenneplaan37-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Billeke-Van-Lenneplaan37-1400x500.jpg",
+        "alt": "Villa Billeke"
+      }
+    },
+    {
+      "id": "item-054",
+      "type": "item",
+      "title": "Comenius College",
+      "slug": "comenius-college",
+      "description": "Het schoolgebouw werd ontworpen door architect E.C. Falkenburg, die zeer actief was in Hilversum in de naoorlogse jaren en veel woningen, landhuizen en woningcomplexen heeft nagelaten.",
+      "summary": "Het schoolgebouw werd ontworpen door architect E.C. Falkenburg, die zeer actief was in Hilversum in de naoorlogse jaren en veel woningen, landhuizen en woningcomplexen heeft nagelaten.",
+      "creator": "E.C. Falkenburg",
+      "date": {
+        "end": "1967-1969",
+        "label": "1967-1969"
+      },
+      "location": {
+        "street": "Bisonlaan",
+        "houseNumber": "1",
+        "label": "Bisonlaan, 1"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/comeniuscollege/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Comenius-College-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Comenius-College-1400x500.jpg",
+        "alt": "Comenius College"
+      }
+    },
+    {
+      "id": "item-055",
+      "type": "item",
+      "title": "Vm. Diamantslijperij De Volharding",
+      "slug": "vm-diamantslijperij-de-volharding",
+      "description": "Het gebouw aan de Liebergerweg 3 is weinig opvallend en duidelijk door de tijd aangetast. Toch staat dit pand voor een belangrijke periode in de Hilversumse geschiedenis: die van de diamantindustrie.",
+      "summary": "Het gebouw aan de Liebergerweg 3 is weinig opvallend en duidelijk door de tijd aangetast. Toch staat dit pand voor een belangrijke periode in de Hilversumse geschiedenis: die van de diamantindustrie.",
+      "creator": "K. Schilder",
+      "date": {
+        "end": "1906",
+        "label": "1906"
+      },
+      "location": {
+        "street": "Liebergerweg",
+        "houseNumber": "3",
+        "label": "Liebergerweg, 3"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/vm-diamantslijperij-de-volharding/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_3861-1400x500.jpeg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/IMG_3861-1400x500.jpeg",
+        "alt": "Vm. Diamantslijperij De Volharding"
+      }
+    },
+    {
+      "id": "item-056",
+      "type": "item",
+      "title": "Neuweg 27-29",
+      "slug": "neuweg-27-29",
+      "description": "De galerijflat aan de Neuweg is in 1974 ontworpen door architect R.M.H. Magnée (1915-2002) in een\r\nvoor de bouwtijd kenmerkende stijl.",
+      "summary": "De galerijflat aan de Neuweg is in 1974 ontworpen door architect R.M.H. Magnée (1915-2002) in een\r\nvoor de bouwtijd kenmerkende stijl.",
+      "creator": "Robert Magnee",
+      "date": {
+        "end": "1974-1975",
+        "label": "1974-1975"
+      },
+      "location": {
+        "street": "Neuweg",
+        "houseNumber": "27-29",
+        "label": "Neuweg, 27-29"
+      },
+      "source": {
+        "url": "https://www.dudokarchitectuurcentrum.nl/andere-werken/flatwoningen-neuweg-27-29/"
+      },
+      "media": {
+        "type": "image",
+        "url": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Neuweg-27-1400x500.jpg",
+        "thumbnailUrl": "https://www.dudokarchitectuurcentrum.nl/wp-content/uploads/Neuweg-27-1400x500.jpg",
+        "alt": "Neuweg 27-29"
+      }
+    }
+  ],
+  "meta": {
+    "sourceFile": "20250819 HTM Dudok Architectuur Centrum - Locaties.csv",
+    "itemCount": 56
+  }
+}

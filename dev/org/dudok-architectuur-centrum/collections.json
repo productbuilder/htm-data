@@ -1,0 +1,9 @@
+{
+  "title": "Dudok Architectuur Centrum",
+  "collections": [
+    {
+      "id": "locaties",
+      "manifest": "locaties/collection.json"
+    }
+  ]
+}
