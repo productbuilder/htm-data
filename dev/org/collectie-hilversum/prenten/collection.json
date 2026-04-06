@@ -492,7 +492,10 @@
       "description": "Cafe ome Co te Muiden, hoek Herengracht - Naarderstraat.",
       "creator": "Brethouwer",
       "date": "1900-1950",
-      "location": "52.32996, 5.06935",
+      "location": {
+        "lat": 52.32996,
+        "lon": 5.06935
+      },
       "attribution": "collectie schilderijen",
       "source": "2342",
       "tags": [
@@ -1427,7 +1430,10 @@
       "description": "Tekening met gezicht op Hilversum. In de achtergrond staan een kerk, daarvoor staan diverse huizen en boerderijen en hooimijt en akkerveldjes. In het onderschrift staat: \"Hilverfum in Gooyland, A 1630\".",
       "creator": "Ravenswaay, Jan van",
       "date": "1630",
-      "location": "52.22374214280062, 5.170669818490818",
+      "location": {
+        "lat": 52.22374214280062,
+        "lon": 5.170669818490818
+      },
       "attribution": "collectie tekeningen",
       "source": "2985",
       "tags": [
@@ -1449,7 +1455,10 @@
       "description": "Gezicht op Hilversum, met twee kerktorens daar tussen huizen met bomen, op de voorgrond heide. Onderschrift: \"Hilversum 20 augustus.\".",
       "creator": "Greive, J.C.",
       "date": "1864",
-      "location": "52.221446889863145, 5.165715658795976",
+      "location": {
+        "lat": 52.221446889863145,
+        "lon": 5.165715658795976
+      },
       "attribution": "collectie tekeningen",
       "source": "3134",
       "tags": [
@@ -1515,7 +1524,10 @@
       "description": "Gezicht op Hilversum met watput met emmer en korenschoven, daarachter huizen en kerktoren. Tekening van Ravenswaay naar ets Rademaker. Onderschrift: \"Het Gooyse dorp Hilversum zoo als 't in den jaar 1609 was\". Op de rand: onderschrift uit latere tijd (n.l. van A. Perk) \"In de Nederlandsche oudheden en gezegten een plaat van ets kleur, formaat, geheel als bovenstaande tekening, deel 6, voortal 3. Met onderschrift met onderschrift Hilversum in het Gooy Rademaker fecit CCLI (251) Het dorp Hilversom in Gooilant leggende in aangename Zaailanden met .. van de stad Naerden zoo als zich dat vertoonde in den jaren 1609. Een plaat in de Ned.[..]\"",
       "creator": "Ravenswaay, J.van",
       "date": "1825",
-      "location": "52.22279415945376, 5.168164535989606",
+      "location": {
+        "lat": 52.22279415945376,
+        "lon": 5.168164535989606
+      },
       "attribution": "collectie tekeningen",
       "source": "3143",
       "tags": [
@@ -1537,7 +1549,10 @@
       "description": "Landschap met grafheuvels en heide. Op de voorgrond staan drie mensen. In de verte ligt het dorp Hilversum met kerktoren en molen. Opschrift: \"M. de Goeje 1796\". Opschrift achterzijde: \"'t dorp Hilversum\". In 1796 legt M. de Goeje Hilversum en omgeving op deze aquarel vast. Duidelijk zichtbaar zijn de Dorpskerk en een molen. Verder is er weinig te zien aan de bebouwing. Wat opvalt zijn de verhogingen in het landschap op de voorgrond van het schilderij. Het zijn de resten van grafheuvels, die op verschillende plekken in het Gooi voorkomen. Bijvoorbeeld op de Zuiderheide en de Hoorneboegse Heide. Op de heide tussen Hilversum en Laren zijn de zeven bergjes stille getuigen van tien grafheuvels die vierduizend jaar oud zijn. De lokale historicus Albertus Perk doet in de negentiende eeuw onderzoek naar de grafheuvels en hij vindt twee urnen, waarvan één ‘verbrande beendertjes’ bevat. In 1924 treft A.E. Remouchamps – conservator van het Rijksmuseum van Oudheden in Leiden – in dit gebied een grafkuil met urnen, een bronzen dolkje en vuurstenen pijlpunten: objecten die door de eerste bewoners van dit gebied zijn gebruikt.",
       "creator": "Goeje, M. de",
       "date": "1796",
-      "location": "52.22819238513628, 5.144428605320975",
+      "location": {
+        "lat": 52.22819238513628,
+        "lon": 5.144428605320975
+      },
       "attribution": "collectie tekeningen",
       "source": "3145",
       "tags": [
@@ -1801,7 +1816,10 @@
       "description": "Schuur of hut met uitbouwtje (kolenhok?) tussen 2 berken en ander bomen. Rechtsonder opschrift: \"L.S. Hilversum\".Tekening achterzijde: Boslandschap met 3 grote keien daarachter bossage en rechts een kleinere kei. Rechts een potloodzigzaglijn verticaal over het blad.(N.B. enige bekende afb. van de stenen bij Vogelzang/Vogelenzang).",
       "creator": "Schulman, L.",
       "date": "1870-1900",
-      "location": "52.23140426338261, 5.160276422802863",
+      "location": {
+        "lat": 52.23140426338261,
+        "lon": 5.160276422802863
+      },
       "attribution": "collectie tekeningen",
       "source": "3121",
       "tags": [
@@ -1977,7 +1995,10 @@
       "description": "Een grafheuvel op de heide te Laren of Hilversum. Op de heuvel staan twee boomstronkjes van gekapte bomen. Rechtsonder signatuur.",
       "creator": "Rust, W.J.",
       "date": "1935",
-      "location": "52.2487187091624, 5.190292375939569",
+      "location": {
+        "lat": 52.2487187091624,
+        "lon": 5.190292375939569
+      },
       "attribution": "collectie tekeningen",
       "source": "3283",
       "tags": [
@@ -2109,7 +2130,10 @@
       "description": "Wasmeer Hilversum, in de voorgrond de heide met het wasmeer in de achtergrond de skyline van hilversum met o.a. de st.vitus kerktoren. Het Wasmeer Hilversum is een heideven ten zuidoosten van Hilversum. Vroeger werd het gebruikt om de schapen in te wassen. Door vervuiling en te grote verzuring van de bodem, verdween de oorspronkelijke flora in hoog tempo. Nadat in 1995 maatregelen zijn getroffen, heeft de natuur zich kunnen herstellen. Langs het Wasmeer bloeien planten die goed gedijen op een vochtige, zure en voedselarme zandbodem. Op de heide bij het Wasmeer grazen Schotse Hooglanders en in het gebied leven ook dassen, hagedissen en hazelwormen.",
       "creator": "Rees, Koen van",
       "date": "1926-1965",
-      "location": "52.222584899555535, 5.217402907015473",
+      "location": {
+        "lat": 52.222584899555535,
+        "lon": 5.217402907015473
+      },
       "attribution": "collectie tekeningen",
       "source": "3418",
       "tags": [
@@ -2307,7 +2331,10 @@
       "description": "Spoorwegemplacement Hilversum, met brug en treinen. Mogelijk voorstudie voor tekening 'spoorwegterrein te hilversum' in het gedenkboek, pagina 434.",
       "creator": "Koekkoek, G.J. (Gerardus Johannes 'Gerard') (m)",
       "date": "1886-1956",
-      "location": "52.22804899443009, 5.180367478017146",
+      "location": {
+        "lat": 52.22804899443009,
+        "lon": 5.180367478017146
+      },
       "attribution": "collectie tekeningen",
       "source": "3629",
       "tags": [
@@ -3517,7 +3544,10 @@
       "description": "Op de voorgrond de heide met heuvelachtig graslandschap. Langs de skyline de zendmasten en schoorsteen van de NSF en een kerk (heilige hartkerk, cuypersplein). Hilversum's duinen, bij de N.S.F. Weggegraven nov. 1930. op achterzijde een situatieschets van een weg met plein.",
       "creator": "Betlem, M. (Maarten) (m)",
       "date": "1900-1957",
-      "location": "52.231495815726696, 5.197849301496464",
+      "location": {
+        "lat": 52.231495815726696,
+        "lon": 5.197849301496464
+      },
       "attribution": "collectie tekeningen",
       "source": "3760",
       "tags": [
@@ -4749,7 +4779,10 @@
       "description": "Aquarel van landschap in in avondgloren. In de voorgrond zijn bomen, hei en akkers en mogelijk het wasmeer afgebeeld. Aan de horizon zijn de silhouetten van de Vituskerk, de oud-katholieke kerk, de Grote Kerk, twee molens en op het einde de watertoren zichtbaar. Opschrift: \"Gezicht op Hilversum\". Linksonder gesigneerd. Gecorrigeerd met wit.",
       "creator": "Betlem, M. (Maarten)",
       "date": "1920-1930",
-      "location": "52.234122609482235, 5.182603757290371",
+      "location": {
+        "lat": 52.234122609482235,
+        "lon": 5.182603757290371
+      },
       "attribution": "collectie tekeningen",
       "source": "3793",
       "tags": [
@@ -4859,7 +4892,10 @@
       "description": "Aquarel van de Zuiderheide, pad in een glooiend landschap met enkele bomen met een regenachtige lucht. Het geheel doet aan storm denken. Opschrift: \"Heide bij Bluk.\"",
       "creator": "Betlem, M. (Maarten) (m)",
       "date": "1920-1957",
-      "location": "52.2363653424512, 5.208224071164947",
+      "location": {
+        "lat": 52.2363653424512,
+        "lon": 5.208224071164947
+      },
       "attribution": "collectie tekeningen",
       "source": "3798",
       "tags": [
@@ -5761,7 +5797,10 @@
       "description": "3 tekeningen (Herderin, tableau, herder) op 1 blad (290902-290904). Herderin. Pentekening. Opschrift: \"Eenige fragmenten v.d. in 1937 afgebroken schapenkamp en overgebracht naar het Veenshof. Herderin. Herder.\".",
       "creator": "Betlem, M. (Maarten) (m)",
       "date": "1937-1957",
-      "location": "52.22441638724705, 5.180162296358154",
+      "location": {
+        "lat": 52.22441638724705,
+        "lon": 5.180162296358154
+      },
       "attribution": "collectie tekeningen",
       "source": "3886",
       "tags": [
@@ -5783,7 +5822,10 @@
       "description": "3 tekeningen (Herderin, tableau, herder) op 1 blad (290902-290904). Spreukplaat. Pentekening. Opschrift: \"Eenige fragmenten v.d. in 1937 afgebroken schapenkamp en overgebracht naar het Veenshof. Herderin. Herder.\".",
       "creator": "Betlem, M. (Maarten) (m)",
       "date": "1937-1957",
-      "location": "52.22441638724705, 5.180162296358154",
+      "location": {
+        "lat": 52.22441638724705,
+        "lon": 5.180162296358154
+      },
       "attribution": "collectie tekeningen",
       "source": "3816",
       "tags": [
@@ -5805,7 +5847,10 @@
       "description": "3 tekeningen (Herderin, tableau, herder) op 1 blad (290902-290904). Herder. Pentekening. Opschrift: \"Eenige fragmenten v.d. in 1937 afgebroken schapenkamp en overgebracht naar het Veenshof. Herderin. Herder.\".",
       "creator": "Betlem, M. (Maarten) (m)",
       "date": "1937-1957",
-      "location": "52.22441638724705, 5.180162296358154",
+      "location": {
+        "lat": 52.22441638724705,
+        "lon": 5.180162296358154
+      },
       "attribution": "collectie tekeningen",
       "source": "3817",
       "tags": [
@@ -6531,7 +6576,10 @@
       "description": "Zicht op hilversum, met in de voorgrond een boerderij en in de achtergrond de kerktoren van hilversum. Aquarel. Opschrift: \" 't dorp Hilversum\". Door: N.Wicart 1748-1815, Loosdrecht 1777-1784.",
       "creator": "Wicart, N.",
       "date": "1781",
-      "location": "52.213056706945785, 5.192917063369591",
+      "location": {
+        "lat": 52.213056706945785,
+        "lon": 5.192917063369591
+      },
       "attribution": "collectie tekeningen",
       "source": "3911",
       "tags": [
@@ -6663,7 +6711,10 @@
       "description": "Paviljoen Hilversum met boekweitvelden. Paviljoen op horizonhoogte met links boekweitvelden en rechts bossages met naaldbomen en loofbomen. Daar onder een weggetje of pad. Daar onder op de voorgrond links een paadje afbuigends naar links (naar het pad?) Rechts van het kromme paadje een veld met gemengde begroeing, o.a. bloemen. Oprschrift links : uit het schetsbek van H. M. Heek. Aan de rechter kant : paviljoen te Hilversum met boekweitvelden 1873. Rechtesobnder gesigneerd : H.V. Heek. Potloodtekening als studieschets voor ??. In de tekening zijn de kleuren aangegeven.",
       "creator": "Heek, H. van",
       "date": "1873",
-      "location": "52.23787342958423, 5.147208138866304",
+      "location": {
+        "lat": 52.23787342958423,
+        "lon": 5.147208138866304
+      },
       "attribution": "collectie tekeningen",
       "source": "3967",
       "tags": [
@@ -6861,7 +6912,10 @@
       "description": "De Hilversumse heide, met een pad een twee dennebomen. Met heuveltjes (mogelijk de zevenheuveltjes, grafheuvels) de aquarel zit op een nieuwjaarskaart. Kleurenaquarel. Door dhr. en mevr. Bouwmeester.\r\r\nOp de achtzijde van het blad heeft een boom en 2 hoofden gestaan (slecht te zien)",
       "creator": "Bouwmeester",
       "date": "1990-1991",
-      "location": "52.23449908702353, 5.211385464669008",
+      "location": {
+        "lat": 52.23449908702353,
+        "lon": 5.211385464669008
+      },
       "attribution": "collectie tekeningen",
       "source": "4170",
       "tags": [
@@ -6906,7 +6960,10 @@
       "description": "Een vergezicht met horizon op halve hoogte. Van de Melkmeent ‘ het Luye Gat’, langs de Meentweg richting Bussum (voor de bebouwing). Aan de horizon: Vituskerk en watertoren van Laren. Op de voorgrond een sloot, verder een grasrand met hek, bouwland, een huizenrij langs de einder. In het witte vlak daarboven kale boomtoppen en opvliegende vogels. Nazomer.",
       "creator": "Hendriks, J. (Jan) (m)",
       "date": "1965-1975",
-      "location": "52.26185390194969, 5.137873974558345",
+      "location": {
+        "lat": 52.26185390194969,
+        "lon": 5.137873974558345
+      },
       "attribution": "collectie tekeningen",
       "source": "4632",
       "tags": [
@@ -7083,7 +7140,10 @@
       "description": "St.Vituskerk anno 1930. Ligging aan het kruispunt, de school naast de kerk en de huisjes daartussen. Verder bomen en wolken. Het perspectief in de tekening is enigszins ‘verwrongen’.",
       "creator": "Heemskerk",
       "date": "1920-1930",
-      "location": "52.221962914831295, 5.1789595450395085",
+      "location": {
+        "lat": 52.221962914831295,
+        "lon": 5.1789595450395085
+      },
       "attribution": "collectie tekeningen",
       "source": "8555",
       "tags": [
@@ -7106,7 +7166,10 @@
       "description": "Op de voorgrond een bosweg die naar rechts afbuigt. Aan weerszijden van de weg een berm van warrig struikgewas en een rij kale bomen. Daarnaast een groepje naaldbomen en een boomaanplant, aan het eind daarvan een verder bos. Over het bospad versleept een man in werkkleding een boomstronk. Een zwarte hond volgt hem. Dunne sneeuwlaagjes hier en daar en de donkere lucht geven de tekening de atmosfeer van een winterse namiddag.",
       "creator": "Springer, C.",
       "date": "1889",
-      "location": "52.24698623702386, 5.152833279346689",
+      "location": {
+        "lat": 52.24698623702386,
+        "lon": 5.152833279346689
+      },
       "attribution": "collectie tekeningen",
       "source": "8613",
       "tags": [
@@ -8429,7 +8492,10 @@
       "description": "Heidegezicht op Hilversum, vanuit de Zuiderheide (tussen Hilversum en Laren). Met in de skyline, de silo's van de gasfabriek, de toren van de sintvitus, en schoorstenen (melkfabriek, NSF?) en de flats van het Kamrad. Hoewel het opschift \"Klein Zwitserland\" is, verwijst dit niet naar de landschapstuin van Bantam aan de andere zijde van Hilversum. Onleesbaar opschrift achterzijde [Wit Pas plat Wit.  geb 4-8-36 3 eu plat].",
       "creator": "Calker, J.F.H. (Jordanus Franciscus Hubertus 'Jord') (m) van",
       "date": "1960",
-      "location": "52.23065524534211, 5.217452902816497",
+      "location": {
+        "lat": 52.23065524534211,
+        "lon": 5.217452902816497
+      },
       "attribution": "collectie tekeningen",
       "source": "4618",
       "tags": [
@@ -9596,7 +9662,10 @@
       "description": "pastel, voorstellende sluisbouw kanaal Hilversum - Vecht, november 1931, 't Hemeltje.\r\r\n\r\r\nlijst tamelijk beschadigd",
       "creator": "Willerding, J.",
       "date": "1931",
-      "location": "52.24379134866514, 5.047706954633564",
+      "location": {
+        "lat": 52.24379134866514,
+        "lon": 5.047706954633564
+      },
       "attribution": "collectie tekeningen",
       "source": "4684",
       "tags": [
@@ -10607,7 +10676,10 @@
       "description": "Opschrift rechts : Hilversum Int Gooy 1609 Opschrift links : A Rademaker fecit. Gezicht op de plaats Hilversum in de situatie omstreeks 1609. Op de voorgrond een waterput, een boerderij en een akker met korenschoven. Op de achtergrond enkele huizen en de kerk. Illustratie uit: Abraham Rademaker, Matthaeus Brouërius van Niedek, Isaac Le Long, Kabinet van Nederlandsche en Kleefsche outheden en (...) voorname stads- en landgebouwen, Willem Barents en Antoni Schoonenburg: Amsterdam, 1727-1733, ill. nr. 251. afgedrukt in het gedenkboek, p105",
       "creator": "Rademaker, A",
       "date": "1609",
-      "location": "52.22279415945376, 5.168164535989606",
+      "location": {
+        "lat": 52.22279415945376,
+        "lon": 5.168164535989606
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4867",
       "tags": [
@@ -10651,7 +10723,10 @@
       "description": "ovale kopergravure (handgekleurd) van dorp met kerk en molen in Hilversum. vierregelig onderschrift",
       "creator": "Brouwer, A.C.",
       "date": "1795",
-      "location": "52.22407665411605, 5.163028476035273",
+      "location": {
+        "lat": 52.22407665411605,
+        "lon": 5.163028476035273
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4869",
       "tags": [
@@ -10673,7 +10748,10 @@
       "description": "ovale kopergravure van dorp met kerk en molen in Hilversum. vierregelig onderschrift",
       "creator": "Brouwer, A.C.",
       "date": "1795",
-      "location": "52.22407665411605, 5.163028476035273",
+      "location": {
+        "lat": 52.22407665411605,
+        "lon": 5.163028476035273
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4870",
       "tags": [
@@ -10695,7 +10773,10 @@
       "description": "ovale kopergravure (handgekleurd) van dorp met kerk en molen in Hilversum. vierregelig onderschrift",
       "creator": "Brouwer, A.C.",
       "date": "1795",
-      "location": "52.22407665411605, 5.163028476035273",
+      "location": {
+        "lat": 52.22407665411605,
+        "lon": 5.163028476035273
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4871",
       "tags": [
@@ -10717,7 +10798,10 @@
       "description": "ovale kopergravure van dorp met kerk en molen in Hilversum. vierregelig onderschrift",
       "creator": "Brouwer, A.C.",
       "date": "1795",
-      "location": "52.22407665411605, 5.163028476035273",
+      "location": {
+        "lat": 52.22407665411605,
+        "lon": 5.163028476035273
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4872",
       "tags": [
@@ -10739,7 +10823,10 @@
       "description": "kopergravure\r\r\n\r\r\nafbeeld: gezicht op Hilversum vanaf de weg naar 's-Graveland\r\r\n\r\r\nnaar E.van Drielst",
       "creator": "Brouwer, A.C.",
       "date": "1802",
-      "location": "52.238632079244, 5.139865486586411",
+      "location": {
+        "lat": 52.238632079244,
+        "lon": 5.139865486586411
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4873",
       "tags": [
@@ -10761,7 +10848,10 @@
       "description": "kopergravure\r\r\n\r\r\nafbeeld: gezicht op Hilversum vanaf de weg naar 's-Graveland\r\r\n\r\r\nnaar E.van Drielst",
       "creator": "Brouwer, A.C.",
       "date": "1802",
-      "location": "52.238632079244, 5.139865486586411",
+      "location": {
+        "lat": 52.238632079244,
+        "lon": 5.139865486586411
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4874",
       "tags": [
@@ -10783,7 +10873,10 @@
       "description": "kopergravure\r\r\n\r\r\nafbeeld: gezicht op Hilversum vanaf de weg naar 's-Graveland\r\r\n\r\r\nnaar E.van Drielst",
       "creator": "Brouwer, A.C.",
       "date": "1802",
-      "location": "52.238632079244, 5.139865486586411",
+      "location": {
+        "lat": 52.238632079244,
+        "lon": 5.139865486586411
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4875",
       "tags": [
@@ -11003,7 +11096,10 @@
       "description": "litho\r\r\n\r\r\nvoorst.: wasmeer Hilversum",
       "creator": "Hoet, G.W. (Gerarda Wilhelmina) (v) ten",
       "date": "1903-1939",
-      "location": "52.224588175149314, 5.213711283955292",
+      "location": {
+        "lat": 52.224588175149314,
+        "lon": 5.213711283955292
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4906",
       "tags": [
@@ -11025,7 +11121,10 @@
       "description": "litho\r\r\n\r\r\nvoorst.: bij het wasmeer Hilversum\r\r\n\r\r\nonderschrift: Bij 't waschmeer  1e staat",
       "creator": "Hoet, G.W. (Gerarda Wilhelmina) (v) ten",
       "date": "1903-1939",
-      "location": "52.224588175149314, 5.213711283955292",
+      "location": {
+        "lat": 52.224588175149314,
+        "lon": 5.213711283955292
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4907",
       "tags": [
@@ -11047,7 +11146,10 @@
       "description": "ets\r\r\n\r\r\nvoorst.: wasmeer met kudde schapen",
       "creator": "Hoet, G.W. (Gerarda Wilhelmina) (v) ten",
       "date": "1903-1939",
-      "location": "52.224588175149314, 5.213711283955292",
+      "location": {
+        "lat": 52.224588175149314,
+        "lon": 5.213711283955292
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4908",
       "tags": [
@@ -11113,7 +11215,10 @@
       "description": "Litho, handingekleurd. Waarschijnlijk uitgegeven ter gelegenheid van de opening van het nieuwe Raadhuis op de Kerkbrink. Op litho gezet door P. van Looy. Tekenaar onbekend (H.G.).\r\r\nvoorstelling met onderschrift: \r\r\n1. Het Stadhuis met de kerktoren en de schoolgebouwen\r\r\n2. Gezicht van den Boomberg over het nieuwe park naar de zijde van 's-Graveland\r\r\n3. Gezicht van 't paviljoen Trompenberg zuidwaarts\r\r\n4. Gezicht van den Loosdrechtschen weg op Hilversum\r\r\n5. Panorama van Hilversum van de hoogten aan de zuidzij",
       "creator": "Looy, P. van",
       "date": "1882",
-      "location": "52.22410784717469, 5.171840138317843",
+      "location": {
+        "lat": 52.22410784717469,
+        "lon": 5.171840138317843
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4912",
       "tags": [
@@ -11135,7 +11240,10 @@
       "description": "Litho, handingekleurd. Waarschijnlijk uitgegeven ter gelegenheid van de opening van het nieuwe Raadhuis op de Kerkbrink. Op litho gezet door P. van Looy. Tekenaar onbekend (H.G.).\r\r\nvoorstelling met onderschrift: \r\r\n1. Het Stadhuis met de kerktoren en de schoolgebouwen\r\r\n2. Gezicht van den Boomberg over het nieuwe park naar de zijde van 's-Graveland\r\r\n3. Gezicht van 't paviljoen Trompenberg zuidwaarts\r\r\n4. Gezicht van den Loosdrechtschen weg op Hilversum\r\r\n5. Panorama van Hilversum van de hoogten aan de zuidzij",
       "creator": "Looy, P. van",
       "date": "1882",
-      "location": "52.22410784717469, 5.171840138317843",
+      "location": {
+        "lat": 52.22410784717469,
+        "lon": 5.171840138317843
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4913",
       "tags": [
@@ -11267,7 +11375,10 @@
       "description": "ets. Bosrand met zandverstuiving \"Achter het Waschmeer\"",
       "creator": "Hoet, G.W. (Gerarda Wilhelmina) (v) ten",
       "date": "1903-1939",
-      "location": "52.2308710980843, 5.214721461270709",
+      "location": {
+        "lat": 52.2308710980843,
+        "lon": 5.214721461270709
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "4966",
       "tags": [
@@ -11289,7 +11400,10 @@
       "description": "Litho, handingekleurd. Waarschijnlijk uitgegeven ter gelegenheid van de opening van het nieuwe Raadhuis op de Kerkbrink. Op litho gezet door P. van Looy. Tekenaar onbekend (H.G.). Mogelijk later opnieuw ingekleurd.\r\r\nvoorstelling met onderschrift: \r\r\n1. Het Stadhuis met de kerktoren en de schoolgebouwen\r\r\n2. Gezicht van den Boomberg over het nieuwe park naar de zijde van 's-Graveland\r\r\n3. Gezicht van 't paviljoen Trompenberg zuidwaarts\r\r\n4. Gezicht van den Loosdrechtschen weg op Hilversum\r\r\n5. Panorama van Hilversum van de hoogten aan de zuidzij",
       "creator": "Looy, P. van",
       "date": "1882",
-      "location": "52.22410784717469, 5.171840138317843",
+      "location": {
+        "lat": 52.22410784717469,
+        "lon": 5.171840138317843
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "5064",
       "tags": [
@@ -11355,7 +11469,10 @@
       "description": "Briefhoofd (aandeel?) met de gebouwen van de Hilversumse Stoomspinnerij en weverij in het landschap met in het midden de hoge schoorsteen van het comlex. Achter de gebouwen zijn de landerijen te zien. Voor de gebouwen loopt de aanvoerweg diagonaal naar rechtsonder. Opschrift boven: Hilversumsche Stoom Spinnerij en Weverij; Opschrift links: HSS & W.; Opschrift rechts : No..Opschrift onder: OPGERIGT 5 April 1867.",
       "creator": "",
       "date": "1875",
-      "location": "52.22216627876023, 5.15569238641628",
+      "location": {
+        "lat": 52.22216627876023,
+        "lon": 5.15569238641628
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "5150",
       "tags": [
@@ -11575,7 +11692,10 @@
       "description": "Reproductie prent P50. \"Gezicht achter 's-Graveland en Hilversum in het verschiet\"",
       "creator": "Almere Printings B.V.",
       "date": "1978",
-      "location": "52.23859210959536, 5.140730156980722",
+      "location": {
+        "lat": 52.23859210959536,
+        "lon": 5.140730156980722
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "5173",
       "tags": [
@@ -11641,7 +11761,10 @@
       "description": "Dorp met kerk en molen. vierregelig onderschrift met vier regels uitgebreid\r\r\nopschrift: het dorp Hilversum",
       "creator": "Brouwer, A.C.",
       "date": "1795",
-      "location": "52.22407665411605, 5.163028476035273",
+      "location": {
+        "lat": 52.22407665411605,
+        "lon": 5.163028476035273
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "5183",
       "tags": [
@@ -11839,7 +11962,10 @@
       "description": "houtgravure. \"Het Belvedere te Hilversum\"\r\r\nboven- en onderzijde afgesneden stroken tekst",
       "creator": "Bogaerts, W. (Waldra)",
       "date": "1880",
-      "location": "52.221338905947604, 5.156974627899945",
+      "location": {
+        "lat": 52.221338905947604,
+        "lon": 5.156974627899945
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "5226",
       "tags": [
@@ -11993,7 +12119,10 @@
       "description": "drukwerk bij gemeenteraadsverkiezingen te Hilversum. Een groep mensen die met belangstelling kijkt naar de kei die naar een groot gat in de grond (put) wordt gesleept en geduwd door meerdere mannen. In het gat staat het woord : GEMEENTEPUT. Opschrift boven afbeelding: \"KIEZERS van HILVERSUM! WIE MEDE WIL HELPEN TOT DEMPING DER GEMEENTEPUTTEN stemmen dinsdag II op: BORHOUT HERINGA WAGENFELD en in III op: Mr. HINGST van RAVESTEIJN WAGENFELD' Linksonder de afbeelding staat het stempel van drukkerij de Mercuur. De Kei van Hilversum is een zwerfkei biotiet-graniet dateert uit de voorlaatste ijstijd, het Saalien (370.000-130.000 v. Chr.). De 13.000 kg wegende kei werd in 1916 gevonden op de Westerheide bij de Aardjesberg, bij de aanleg van een fietspad van de Crailosebrug naar het Sint Janskerkhof in Laren. De Aardjesberg ligt ten oosten van de Nieuwe Crailoseweg en is onderdeel van heuvelrug de Lange Heul. De zwerfkei werd voor tien gulden gekocht van Stad en Lande van Gooiland door oud-wethouder van Hilversum, Jelle Hingst. Deze wilde de steen in zijn tuin aan de Utrechtseweg laten plaatsen. Door de hoge transportkosten zag hij van het plan af zodat de kei bleef liggen op de Aardjesberg. In 1921 werd de steen door Floris Vos, erfgooier en directeur van Oud Bussem, verplaatst naar het centrum van Hilversum. De kei werd daartoe met de hand uitgegraven. Vervolgens werd het gevaarte met vijzels op rails gelegd en op een platte wagen getrokken. Een grote tractor met rupsbanden van Oud-Bussem trok het gevaarte tot Hilversum. Toen de tractor het begaf werd de kei door vrachtwagens naar het Keipleintje getrokken. Op 13 augustus 1921 werd de Kei na een officiële intocht op enkele kleinere zwerfstenen geplaatst. Deze keitjes waren aan het begin van de 19e eeuw opgedolven uit de Boomberg.",
       "creator": "Drukkerij \"De Mercuur\"",
       "date": "1900-1980",
-      "location": "52.225548374608664, 5.171620793268867",
+      "location": {
+        "lat": 52.225548374608664,
+        "lon": 5.171620793268867
+      },
       "attribution": "collectie affiches",
       "source": "5308",
       "tags": [
@@ -12037,7 +12166,10 @@
       "description": "herdruk kleurenlitho, repro uit 1984\r\r\n\r\r\nHilversum 1882 - P. van Looy, naar H.G.\r\r\n\r\r\nuitgave De Vaart\r\r\nopdracht door Dienst voor Cultuur\r\r\nherdruk Steendrukkerij De Jong & Co, Hilversum (oplage 3000 exemplaren)\r\r\nter gelegenheid van het 50 jarig bestaan van het Goois Museum",
       "creator": "Looy, P. van",
       "date": "1984",
-      "location": "52.19871157065368, 5.164855236041897",
+      "location": {
+        "lat": 52.19871157065368,
+        "lon": 5.164855236041897
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "5326",
       "tags": [
@@ -12103,7 +12235,10 @@
       "description": "kleurets, blinddruk.\r\r\n\"De Walgaerde\", Sweelincklaan 16, Hilversum",
       "creator": "Kleekamp, C.",
       "date": "1980",
-      "location": "52.23943645104896, 5.15477829341178",
+      "location": {
+        "lat": 52.23943645104896,
+        "lon": 5.15477829341178
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "5385",
       "tags": [
@@ -12147,7 +12282,10 @@
       "description": "lino, zes kleuren olie.\r\r\n\r\r\n\"Montessorischool Hilversum-zuid\"",
       "creator": "Lensing Brouwer, G.",
       "date": "1984",
-      "location": "52.2106857058909, 5.159914892937469",
+      "location": {
+        "lat": 52.2106857058909,
+        "lon": 5.159914892937469
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "5389",
       "tags": [
@@ -12301,7 +12439,10 @@
       "description": "gedrukte (raster) tekeningen\r\r\n\r\r\nfelicitatiekaart Kerkenraad\r\r\n\r\r\n1. Nieuwe kerk, Larenseweg\r\r\n\r\r\n2. Grote kerk, Kerkbrink",
       "creator": "Brobbel, N",
       "date": "1936-1971",
-      "location": "52.22788683546571, 5.184326893498277",
+      "location": {
+        "lat": 52.22788683546571,
+        "lon": 5.184326893498277
+      },
       "attribution": "collectie briefkaarten",
       "source": "5337",
       "tags": [
@@ -12323,7 +12464,10 @@
       "description": "briefpapier, met als briefhoofd gedrukte pentekening Hondenbrug.\r\r\n\r\r\nonderschrift: \"Mooi Hilversum in pentekening, Hilversum, Gooische Vaart met Hondenbrug\"",
       "creator": "",
       "date": "1930",
-      "location": "52.222279584921196, 5.15696667564216",
+      "location": {
+        "lat": 52.222279584921196,
+        "lon": 5.15696667564216
+      },
       "attribution": "collectie briefkaarten",
       "source": "5338",
       "tags": [
@@ -12345,7 +12489,10 @@
       "description": "gedrukte pentekening, als prentbriefkaart.\r\r\n\r\r\n\"Gezicht op Hilversum, vanaf de Zeven Bergjes\"",
       "creator": "Briedé, J. (Johan) (m)",
       "date": "1916-1959",
-      "location": "52.23572440063432, 5.212872297933126",
+      "location": {
+        "lat": 52.23572440063432,
+        "lon": 5.212872297933126
+      },
       "attribution": "collectie briefkaarten",
       "source": "5339",
       "tags": [
@@ -12433,7 +12580,10 @@
       "description": "gedrukte tekening. \r\r\n\r\r\nKerkbrink met paardetram en oude Raadhuis",
       "creator": "Brobbel, N",
       "date": "1921",
-      "location": "52.22430642424448, 5.171864237584639",
+      "location": {
+        "lat": 52.22430642424448,
+        "lon": 5.171864237584639
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "5343",
       "tags": [
@@ -12740,7 +12890,10 @@
       "description": "De kaart met onderschrift 'Hilversum. Vergezicht.' verbeeldt een vlak boerenlandschap. In de lucht hangt een grote witte wolk. Op de voorgrond staan drie hooibalen. In de verte staat een boerderij omringd door bomen. Verder in de verte staat op de horizon een boerderijgbouw.",
       "creator": "onbekend",
       "date": "1850-1950",
-      "location": "52.23484131466567, 5.170364034894625",
+      "location": {
+        "lat": 52.23484131466567,
+        "lon": 5.170364034894625
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "9203",
       "tags": [
@@ -13396,7 +13549,10 @@
       "description": "Kopie van een tekening naar foto met contépotlood, zwart/wit. De koepel van Ruijs op het topje van de Zwaluwenberg. Tekening naar foto. Verdere documentatie in ‘Oorden van Schoonheid’ bladzijde 66. De achterzijde is voorzien van stempel met personalia van de tekenaar.",
       "creator": "Berken, J.C. in den",
       "date": "1980",
-      "location": "52.18485325002352, 5.180708090045856",
+      "location": {
+        "lat": 52.18485325002352,
+        "lon": 5.180708090045856
+      },
       "attribution": "collectie affiches",
       "source": "8802",
       "tags": [
@@ -13484,7 +13640,10 @@
       "description": "Rechthoekige briefkaart met opdruk op een stuk textiel.",
       "creator": "Het Palet",
       "date": "1937-1950",
-      "location": "52.23273727641187, 5.163895647534477",
+      "location": {
+        "lat": 52.23273727641187,
+        "lon": 5.163895647534477
+      },
       "attribution": "collectie briefkaarten",
       "source": "8727",
       "tags": [
@@ -13506,7 +13665,10 @@
       "description": "Rechthoekige briefkaart met opdruk op een stuk textiel.",
       "creator": "Het Palet",
       "date": "1937-1950",
-      "location": "52.225347879215086, 5.157084174809052",
+      "location": {
+        "lat": 52.225347879215086,
+        "lon": 5.157084174809052
+      },
       "attribution": "collectie briefkaarten",
       "source": "6993",
       "tags": [
@@ -13704,7 +13866,10 @@
       "description": "Pentekening, inkt op papier. Topografische tekening omgeving Hilversum, gedateerd 1982, gesigneerd J. Hendriks, rechts opschrift \"Hilversum\".  Bouwkeet of schaftkeet met schoorsteen staat op een bedrijventerrein met geparkeerde auto's voor een fabrieksgebouw. Op achterkant opschrift \"schenking v.d. kunstenaar okt. 1997\"",
       "creator": "Hendriks, J. (Jan) (m)",
       "date": "1982-01-01-1982-12-31",
-      "location": "52.21992121277871, 5.194471425961637",
+      "location": {
+        "lat": 52.21992121277871,
+        "lon": 5.194471425961637
+      },
       "attribution": "collectie tekeningen",
       "source": "9312",
       "tags": [
@@ -13814,7 +13979,10 @@
       "description": "G. Jaakke, schilderij met een afbeelding van de villa Henriette van de NCRV",
       "creator": "Jaakke, G.",
       "date": "1930-1960",
-      "location": "52.2253154703256, 5.156257158109213",
+      "location": {
+        "lat": 52.2253154703256,
+        "lon": 5.156257158109213
+      },
       "attribution": "collectie schilderijen",
       "source": "7446",
       "tags": [
@@ -14033,7 +14201,10 @@
       "description": "Een prentbriefkaart, met een afbeelding (foto) de Kerkbrink te Hilversum met o.a het oude Raadhuis. Afbeelding met een sierrand; rood, wit, blauw en de Nederlandse vlag.",
       "creator": "Blommesteijn, M.",
       "date": "1900",
-      "location": "52.22421530137639, 5.171767269326699",
+      "location": {
+        "lat": 52.22421530137639,
+        "lon": 5.171767269326699
+      },
       "attribution": "collectie briefkaarten",
       "source": "7480",
       "tags": [
@@ -14055,7 +14226,10 @@
       "description": "Een verzamelkaart, met afbeeldingen (foto) van de Kerkbrink, Vituskerk, Loosdrecht, Lapersveld, Vara studio, Sporthaven, A.V.R.o.studio en het Raadhuis te Hilversum.",
       "creator": "",
       "date": "1900",
-      "location": "52.22116389000791, 5.141327335058017",
+      "location": {
+        "lat": 52.22116389000791,
+        "lon": 5.141327335058017
+      },
       "attribution": "collectie briefkaarten",
       "source": "7481",
       "tags": [
@@ -14077,7 +14251,10 @@
       "description": "Een verzamelkaart, met afbeeldingen (foto) van de Hondenbrug, Laperspark,en het Raadhuis te Hilversum. Op de achtergrond een plattegrond (wegenkaart) van Hilversum en omstreken.",
       "creator": "Gebr. Simons",
       "date": "1900",
-      "location": "52.21566479841399, 5.185601483847144",
+      "location": {
+        "lat": 52.21566479841399,
+        "lon": 5.185601483847144
+      },
       "attribution": "collectie briefkaarten",
       "source": "7482",
       "tags": [
@@ -14099,7 +14276,10 @@
       "description": "Een prentbriefkaart, met een afbeelding (foto) van o.a het Laperpark met Vijver te Hilversum .",
       "creator": "N.V. Luxe Papierwarenhandel v/h Roukes & Erhart, Baarn",
       "date": "1900",
-      "location": "52.215712961997106, 5.185600786863084",
+      "location": {
+        "lat": 52.215712961997106,
+        "lon": 5.185600786863084
+      },
       "attribution": "collectie briefkaarten",
       "source": "7483",
       "tags": [
@@ -14363,7 +14543,10 @@
       "description": "Een prentbriefkaart, met een afbeelding van het Post en Telegraafkantoor te Hilversum. De afbeelding is een reliëf.",
       "creator": "Blommesteijn, M.",
       "date": "1900",
-      "location": "52.225570421943196, 5.174059415565962",
+      "location": {
+        "lat": 52.225570421943196,
+        "lon": 5.174059415565962
+      },
       "attribution": "collectie briefkaarten",
       "source": "7546",
       "tags": [
@@ -14429,7 +14612,10 @@
       "description": "Een verzamelkaart, met afbeeldingen (foto) van o.a. de Hondenbrug te Hilversum, omstreeks 1900",
       "creator": "",
       "date": "1900",
-      "location": "52.230610866535486, 5.162762491647516",
+      "location": {
+        "lat": 52.230610866535486,
+        "lon": 5.162762491647516
+      },
       "attribution": "collectie briefkaarten",
       "source": "7549",
       "tags": [
@@ -14451,7 +14637,10 @@
       "description": "Een verzamelkaart, met afbeeldingen (foto) in kleur van o.a. de Kerkbrink, Groest, stationsgebied  en Trompenberg te Hilversum, omstreeks 1905.",
       "creator": "",
       "date": "1905",
-      "location": "52.22587568701676, 5.180899884187934",
+      "location": {
+        "lat": 52.22587568701676,
+        "lon": 5.180899884187934
+      },
       "attribution": "collectie briefkaarten",
       "source": "7550",
       "tags": [
@@ -14473,7 +14662,10 @@
       "description": "Een verzamelkaart-prentbriefkaart, met afbeeldingen (foto) van o.a. Villa Corvin, oudt Hollandt, Corversbosch en Het Post en Telegraafkantoor te Hilversum.",
       "creator": "",
       "date": "1900",
-      "location": "52.230874402954015, 5.172751886898734",
+      "location": {
+        "lat": 52.230874402954015,
+        "lon": 5.172751886898734
+      },
       "attribution": "collectie briefkaarten",
       "source": "7551",
       "tags": [
@@ -14495,7 +14687,10 @@
       "description": "Een verzamelkaart-prentbriefkaart, met afbeeldingen (foto) van o.a. Oud R.C. Kerk, Hengellaan en Heidepark te Hilversum, 1908-1913.",
       "creator": "",
       "date": "1913",
-      "location": "52.23734560897704, 5.162945165771656",
+      "location": {
+        "lat": 52.23734560897704,
+        "lon": 5.162945165771656
+      },
       "attribution": "collectie briefkaarten",
       "source": "7552",
       "tags": [
@@ -14517,7 +14712,10 @@
       "description": "Een verzamelkaart-prentbriefkaart, met afbeeldingen (foto) van o.a. de Stationstraat, Kurhaus en Spanderswoud te Hilversum, omsteeks 1905 (vezonden).",
       "creator": "Quist, T.",
       "date": "1905",
-      "location": "52.23440135589929, 5.162671576583247",
+      "location": {
+        "lat": 52.23440135589929,
+        "lon": 5.162671576583247
+      },
       "attribution": "collectie briefkaarten",
       "source": "7553",
       "tags": [
@@ -14539,7 +14737,10 @@
       "description": "Een verzamelkaart-prentbriefkaart, met afbeeldingen (foto) van o.a. de Groest, koninginneweg en de Kerkbrink te Hilversum, omsteeks 1908",
       "creator": "Quist, T.",
       "date": "1908",
-      "location": "52.23005781812243, 5.169750200936901",
+      "location": {
+        "lat": 52.23005781812243,
+        "lon": 5.169750200936901
+      },
       "attribution": "collectie briefkaarten",
       "source": "7554",
       "tags": [
@@ -14561,7 +14762,10 @@
       "description": "Een verzamelkaart-prentbriefkaart, met afbeeldingen (foto) van o.a. de Haven en de Graaf Florislaan te Hilversum,  verzonden 1906.",
       "creator": "",
       "date": "1906",
-      "location": "52.2310232942002, 5.171651587060943",
+      "location": {
+        "lat": 52.2310232942002,
+        "lon": 5.171651587060943
+      },
       "attribution": "collectie briefkaarten",
       "source": "7555",
       "tags": [
@@ -14583,7 +14787,10 @@
       "description": "Een verzamelkaart-prentbriefkaart, met afbeeldingen (foto) van o.a. de Leeuwenlaan, ministerpark en de 's-Gravenlandscheweg te Hilversum,  omstreeks 1908.",
       "creator": "Quist, T.",
       "date": "1908",
-      "location": "52.22855742977927, 5.174833256451629",
+      "location": {
+        "lat": 52.22855742977927,
+        "lon": 5.174833256451629
+      },
       "attribution": "collectie briefkaarten",
       "source": "7556",
       "tags": [
@@ -14605,7 +14812,10 @@
       "description": "Een verzamel-prentbriefkaart, met afbeeldingen (foto) van o.a. de Groest, spieghellaan en het Melkpad te Hilversum,  omstreeks 1908.",
       "creator": "",
       "date": "1908",
-      "location": "52.22516606519178, 5.16741375357097",
+      "location": {
+        "lat": 52.22516606519178,
+        "lon": 5.16741375357097
+      },
       "attribution": "collectie briefkaarten",
       "source": "7557",
       "tags": [
@@ -14627,7 +14837,10 @@
       "description": "Een verzamel-prentbriefkaart, met afbeeldingen (foto) van Hilversum w.o. villa corvin en oude haven, .",
       "creator": "Schulman's , L.",
       "date": "1900",
-      "location": "52.219968650324816, 5.165321838274393",
+      "location": {
+        "lat": 52.219968650324816,
+        "lon": 5.165321838274393
+      },
       "attribution": "collectie briefkaarten",
       "source": "7558",
       "tags": [
@@ -14649,7 +14862,10 @@
       "description": "Een verzamel-prentbriefkaart, met afbeeldingen (foto) van o.a. het Postkantoor en Villa Corvin, heideheuvel, trompenberg te Hilversum en spanderswoud, poststempel 1908.",
       "creator": "",
       "date": "1908",
-      "location": "52.24098491066998, 5.167370406047524",
+      "location": {
+        "lat": 52.24098491066998,
+        "lon": 5.167370406047524
+      },
       "attribution": "collectie briefkaarten",
       "source": "7559",
       "tags": [
@@ -14671,7 +14887,10 @@
       "description": "Een verzamel-prentbriefkaart, met afbeeldingen (foto) van o.a. de Haven, Heidepark, hogere burgerschool, ned. Hervormde kerk en de Gooische Vaart te Hilversum, omstreeks 1900. De afbeeldingen zijn in de tekst/letters geplaatst.",
       "creator": "Frank, M.A.",
       "date": "1900",
-      "location": "52.22892039983853, 5.156195542301815",
+      "location": {
+        "lat": 52.22892039983853,
+        "lon": 5.156195542301815
+      },
       "attribution": "collectie briefkaarten",
       "source": "7560",
       "tags": [
@@ -14693,7 +14912,10 @@
       "description": "Een verzamel-prentbriefkaart, met afbeeldingen (foto) van o.a. het station, Albertus Perkstraat, villa Palaboean, villa Drakenburg  en de Gooische Vaart te Hilversum.",
       "creator": "Drieënhuizen, C. van",
       "date": "1900",
-      "location": "52.22317340632162, 5.159476964267046",
+      "location": {
+        "lat": 52.22317340632162,
+        "lon": 5.159476964267046
+      },
       "attribution": "collectie briefkaarten",
       "source": "7561",
       "tags": [
@@ -14715,7 +14937,10 @@
       "description": "Een verzamelkaart, met afbeelding  (foto)  in het midden van de Stationstraat te Hilversum.",
       "creator": "",
       "date": "1900",
-      "location": "52.2267748042778, 5.178218855564853",
+      "location": {
+        "lat": 52.2267748042778,
+        "lon": 5.178218855564853
+      },
       "attribution": "collectie briefkaarten",
       "source": "7563",
       "tags": [
@@ -14737,7 +14962,10 @@
       "description": "Een verzamelkaart, met afbeelding  (foto)  in het midden van de Stationsplein te Hilversum.",
       "creator": "",
       "date": "1900",
-      "location": "52.2256493937869, 5.181663733744287",
+      "location": {
+        "lat": 52.2256493937869,
+        "lon": 5.181663733744287
+      },
       "attribution": "collectie briefkaarten",
       "source": "7564",
       "tags": [
@@ -14759,7 +14987,10 @@
       "description": "Een verzamelkaart, met afbeelding  (foto)  in het midden van het Ministerpark (Burgemeester Lambooylaan)te Hilversum.",
       "creator": "",
       "date": "1900",
-      "location": "52.22772588180669, 5.173007529005115",
+      "location": {
+        "lat": 52.22772588180669,
+        "lon": 5.173007529005115
+      },
       "attribution": "collectie briefkaarten",
       "source": "7565",
       "tags": [
@@ -14781,7 +15012,10 @@
       "description": "Een verzamelkaart, met afbeelding  (foto)  in het midden van de Vaart te Hilversum.",
       "creator": "",
       "date": "1900",
-      "location": "52.22094741512998, 5.160992629962852",
+      "location": {
+        "lat": 52.22094741512998,
+        "lon": 5.160992629962852
+      },
       "attribution": "collectie briefkaarten",
       "source": "7566",
       "tags": [
@@ -14803,7 +15037,10 @@
       "description": "Een verzamelkaart, met groeten uit Hilversum, gravelandseweg/tramlijn.",
       "creator": "",
       "date": "1900",
-      "location": "52.226474642663064, 5.170003520669041",
+      "location": {
+        "lat": 52.226474642663064,
+        "lon": 5.170003520669041
+      },
       "attribution": "collectie briefkaarten",
       "source": "7567",
       "tags": [
@@ -14825,7 +15062,10 @@
       "description": "Een verzamel-prentbriefkaart, met afbeeldingen (foto) van o.a. Gooilust, Dennelaan, villa Drakenburg  en de Gooische Vaart te Hilversum, verzonden 1905.",
       "creator": "Werkhoven, W.G. van",
       "date": "1900",
-      "location": "52.23040329141247, 5.167833372800198",
+      "location": {
+        "lat": 52.23040329141247,
+        "lon": 5.167833372800198
+      },
       "attribution": "collectie briefkaarten",
       "source": "7568",
       "tags": [
@@ -14847,7 +15087,10 @@
       "description": "Een verzamel-prentbriefkaart, met afbeeldingen (foto) van o.a. de Torenlaan, Villa Henriette, scheiwal en de Spieghellaan te Hilversum, rond 1905.",
       "creator": "Mikroskop-Postkarte",
       "date": "1905",
-      "location": "52.239883983046276, 5.1406118839268435",
+      "location": {
+        "lat": 52.239883983046276,
+        "lon": 5.1406118839268435
+      },
       "attribution": "collectie briefkaarten",
       "source": "7570",
       "tags": [
@@ -14869,7 +15112,10 @@
       "description": "Een verzamel-prentbriefkaart, met afbeeldingen (foto) van o.a. de Vaartweg, Quatrebras, Villa Zonneheuvel en de Heuvellaan te Hilversum.",
       "creator": "Mikroskop-Postkarte",
       "date": "1900",
-      "location": "52.23295072272654, 5.1582784645602695",
+      "location": {
+        "lat": 52.23295072272654,
+        "lon": 5.1582784645602695
+      },
       "attribution": "collectie briefkaarten",
       "source": "7571",
       "tags": [
@@ -14891,7 +15137,10 @@
       "description": "Een verzamelkaart, met afbeeldingen (foto) van o.a. de N.C.R.V.,  Vara, en Avro Studio, sporthaven en het Raadhuis te Hilversum.",
       "creator": "",
       "date": "1900",
-      "location": "52.2326685109625, 5.1638840606677565",
+      "location": {
+        "lat": 52.2326685109625,
+        "lon": 5.1638840606677565
+      },
       "attribution": "collectie briefkaarten",
       "source": "7572",
       "tags": [
@@ -14913,7 +15162,10 @@
       "description": "Een verzamel-prentbriefkaart, met afbeeldingen (foto) van o.a de Gooische Vaart met zicht op Nieuweroord te Hilversum.",
       "creator": "",
       "date": "1900",
-      "location": "52.22162443876296, 5.157889713507943",
+      "location": {
+        "lat": 52.22162443876296,
+        "lon": 5.157889713507943
+      },
       "attribution": "collectie briefkaarten",
       "source": "7573",
       "tags": [
@@ -14935,7 +15187,10 @@
       "description": "Een verzamel-prentbriefkaart, met afbeeldingen (foto) van o.a de Kerkbrink te Hilversum.",
       "creator": "",
       "date": "1900",
-      "location": "52.224444311836365, 5.171998376703199",
+      "location": {
+        "lat": 52.224444311836365,
+        "lon": 5.171998376703199
+      },
       "attribution": "collectie briefkaarten",
       "source": "7574",
       "tags": [
@@ -15325,7 +15580,10 @@
       "description": "Aquarel op papier, zonder titel. Gezicht op vuurtoren op een dijk. Op voorgrond samenkomst van vrouwen en mannen in streekdracht bij schepen (vissersboten, botters). Niet gesigneerd. (Vissershaven van Urk lijkt er het meest op).",
       "creator": "Betlem, M. (Maarten) (m)",
       "date": "1880-1957",
-      "location": "52.66050522984858, 5.5934210356489364",
+      "location": {
+        "lat": 52.66050522984858,
+        "lon": 5.5934210356489364
+      },
       "attribution": "collectie tekeningen",
       "source": "9263",
       "tags": [
@@ -16190,7 +16448,10 @@
       "description": "Ingelijste tekening, Kampstraat in 1903, kinderen spelen met slee in de sneeuw. Rechtsonder signatuur M.Betlem.",
       "creator": "Betlem, M. (Maarten) (m)",
       "date": "1920-1940",
-      "location": "52.2259032018242, 5.17980138447266",
+      "location": {
+        "lat": 52.2259032018242,
+        "lon": 5.17980138447266
+      },
       "attribution": "collectie tekeningen",
       "source": "9058",
       "tags": [
@@ -16278,7 +16539,10 @@
       "description": "Litho, handingekleurd. Waarschijnlijk uitgegeven ter gelegenheid van de opening van het nieuwe Raadhuis op de Kerkbrink. Op litho gezet door P. van Looy. Tekenaar onbekend (H.G.).\r\r\nvoorstelling met onderschrift: \r\r\n1. Het Stadhuis met de kerktoren en de schoolgebouwen\r\r\n2. Gezicht van den Boomberg over het nieuwe park naar de zijde van 's-Graveland\r\r\n3. Gezicht van 't paviljoen Trompenberg zuidwaarts\r\r\n4. Gezicht van den Loosdrechtschen weg op Hilversum\r\r\n5. Panorama van Hilversum van de hoogten aan de zuidzij",
       "creator": "Looy, P. van",
       "date": "1882",
-      "location": "52.22410784717469, 5.171840138317843",
+      "location": {
+        "lat": 52.22410784717469,
+        "lon": 5.171840138317843
+      },
       "attribution": "collectie prenten en grafiek",
       "source": "9152",
       "tags": [
@@ -16346,7 +16610,10 @@
       "description": "Landschap met woonboot en twee roeiboten in een water naast een knotwilg, daarachter weilanden en in de achtergrond boerderijen en een molen. Opschrift achterzijde Hilversum.",
       "creator": "Stutterheim, L. (Louis) (m)",
       "date": "1950-2000",
-      "location": "52.26237585225681, 5.0511395224590885",
+      "location": {
+        "lat": 52.26237585225681,
+        "lon": 5.0511395224590885
+      },
       "attribution": "collectie schilderijen",
       "source": "9325",
       "tags": [
